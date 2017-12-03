@@ -401,8 +401,7 @@ and O
 ungracious O
 :) O
 
-@cerengboya B_PERSON
- E_PERSON
+@cerengboya S_PERSON
 Yok O
 artık O
 ciddi O
