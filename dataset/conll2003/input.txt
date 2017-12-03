@@ -1702,7 +1702,7 @@ vurmak O
 Bu O
 sezon O
 istanbul B_ORGANIZATION
-şehir B_ORGANIZATION
+şehir I_ORGANIZATION
 tiyatrolarında E_ORGANIZATION
 4.oyunumu O
 seyrettim, O
@@ -1713,8 +1713,7 @@ istanbul B_ORGANIZATION
 efendisi E_ORGANIZATION
 ve O
 şark B_ORGANIZATION
-dişçisi B_ORGANIZATION
- E_ORGANIZATION
+dişçisi E_ORGANIZATION
 bana O
 göre O
 değildi. O
@@ -2734,8 +2733,7 @@ güldüüm O
 :D O
 
 @galicorap S_PERSON
-@UmutBaha_ B_PERSON
- E_PERSON
+@UmutBaha_ S_PERSON
 Evet O
 RTE S_PERSON
 nın O
@@ -4166,8 +4164,7 @@ hahaha O
 evt O
 :D O
 
-@AyseTpc_ B_PERSON
- E_PERSON
+@AyseTpc_ S_PERSON
 sen O
 gelmedn O
 diye O
@@ -4192,7 +4189,7 @@ Fenerbahçe S_ORGANIZATION
 samsunspor S_ORGANIZATION
 / O
 Şükrü B_LOCATION
-Saraçoğlu B_LOCATION
+Saraçoğlu I_LOCATION
 Stadyumu E_LOCATION
 (<b_timex O
 TYPE="TIME">21:00<e_timex>) O
@@ -13079,8 +13076,7 @@ etmeyın O
 RT O
 @chpgenclikkolu: S_PERSON
 Genel B_PERSON
-Başkanımız B_PERSON
-Kemal B_PERSON
+Başkanımız I_PERSON
 Kılıçdaroğlu E_PERSON
 Başbakan B_PERSON
 Erdoğan E_PERSON
@@ -14187,7 +14183,7 @@ but O
 forza O
 GALATASARAY S_ORGANIZATION
 Ali B_LOCATION
-Sami B_LOCATION
+Sami I_LOCATION
 yen E_LOCATION
 (HELL) O
 ı O
@@ -19043,7 +19039,7 @@ knsmuyodurum O
 :) O
 
 Mehmer B_PERSON
-Ali B_PERSON
+Ali I_PERSON
 Birand E_PERSON
 ın O
 ödiceniz, O
@@ -19059,7 +19055,7 @@ ne O
 güzel O
 :D O
 lee B_PERSON
-gi B_PERSON
+gi I_PERSON
 kwang E_PERSON
 napıyo O
 :D O
@@ -19717,8 +19713,7 @@ alışma O
 :( O
 
 Ali B_LOCATION
-Sami B_LOCATION
-Yen B_LOCATION
+Sami I_LOCATION
 Türk B_ORGANIZATION
 Telekom E_ORGANIZATION
 Arena O
@@ -19811,7 +19806,7 @@ Türkçe O
 
 @canbonomo S_PERSON
 bostancı B_LOCATION
-gösteri B_LOCATION
+gösteri I_LOCATION
 merkezine E_LOCATION
 gelirmisiniz O
 sizi O
@@ -21982,7 +21977,7 @@ RT O
 Doğan S_PERSON
 Diyarbakır S_LOCATION
 5 B_LOCATION
-Nolu B_LOCATION
+Nolu I_LOCATION
 Cezaevinde E_LOCATION
 başlattığı O
 4 O
@@ -22106,7 +22101,7 @@ sanki O
 
 @MSadikKuzu S_PERSON
 Recep B_PERSON
-Tayyıp B_PERSON
+Tayyıp I_PERSON
 Erdogan E_PERSON
 Unıversıtesının<e_enamex> O
 Eboue'sı O
@@ -22969,7 +22964,7 @@ istiyorum O
 
 Çarkıfelek S_ORGANIZATION
 mehmet B_PERSON
-ali B_PERSON
+ali I_PERSON
 erbil E_PERSON
 sayesinde O
 izleniyordu O
@@ -24599,7 +24594,7 @@ alıyor. O
 Dakika O
 Sonu O
 Ziraat B_ORGANIZATION
-Türkiye B_ORGANIZATION
+Türkiye I_ORGANIZATION
 Kupası E_ORGANIZATION
 Çeyrekfinalist O
 Belirleme O
@@ -25934,7 +25929,7 @@ atalım O
 :D O
 
 Antalya B_LOCATION
-Mardan B_LOCATION
+Mardan I_LOCATION
 Stadında E_LOCATION
 "KOYDUK O
 MU?" O
@@ -26356,7 +26351,7 @@ Duygu S_PERSON
 :) O
 
 Ziraat B_ORGANIZATION
-Türkiye B_ORGANIZATION
+Türkiye I_ORGANIZATION
 kupası E_ORGANIZATION
 bi O
 FA B_ORGANIZATION
@@ -37729,7 +37724,7 @@ edyruz O
 :) O
 
 doğan B_PERSON
-eray B_PERSON
+eray I_PERSON
 korucunun E_PERSON
 şarkıları O
 çokoş O
@@ -40077,7 +40072,7 @@ güneş O
 deniz O
 konak O
 alsancak B_LOCATION
-kordon B_LOCATION
+kordon I_LOCATION
 küçükpark E_LOCATION
 ama O
 bugün O
@@ -41899,7 +41894,7 @@ kanka O
 
 bu O
 red B_ORGANIZATION
-hot B_ORGANIZATION
+hot I_ORGANIZATION
 chiliye E_ORGANIZATION
 bayılırdım O
 ama O
@@ -43649,7 +43644,7 @@ bak O
 :) O
 
 SDÜ B_LOCATION
-KILICARSALAN B_LOCATION
+KILICARSALAN I_LOCATION
 KAMPÜSÜN E_LOCATION
 DE O
 NEVRUZ O
@@ -43680,7 +43675,7 @@ fuzuli O
 
 @ceyhunyilmazz S_PERSON
 cahit B_PERSON
-sıtkı B_PERSON
+sıtkı I_PERSON
 tarancı E_PERSON
 35 O
 yaş O
@@ -45587,7 +45582,7 @@ bana O
 
 @ceyhunyilmazz S_PERSON
 ahmet B_PERSON
-hamdi B_PERSON
+hamdi I_PERSON
 tanpınar E_PERSON
 'bir O
 adın O
@@ -50066,16 +50061,7 @@ amk O
 
 @blisssyndrome S_PERSON
 Ege B_LOCATION
-Üniversitesi B_LOCATION
-Fen B_LOCATION
-Fakültesi B_LOCATION
-D B_LOCATION
-Blok B_LOCATION
-(Fizik B_LOCATION
-- B_LOCATION
-Kimya B_LOCATION
-- B_LOCATION
-Biyokimya B_LOCATION
+Üniversitesi I_LOCATION
 Bölümü) E_LOCATION
 :D O
 

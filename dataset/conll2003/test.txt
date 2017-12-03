@@ -856,7 +856,7 @@ kanka O
 
 bu O
 red B_ORGANIZATION
-hot B_ORGANIZATION
+hot I_ORGANIZATION
 chiliye E_ORGANIZATION
 bayılırdım O
 ama O
@@ -2606,7 +2606,7 @@ bak O
 :) O
 
 SDÜ B_LOCATION
-KILICARSALAN B_LOCATION
+KILICARSALAN I_LOCATION
 KAMPÜSÜN E_LOCATION
 DE O
 NEVRUZ O
@@ -2637,7 +2637,7 @@ fuzuli O
 
 @ceyhunyilmazz S_PERSON
 cahit B_PERSON
-sıtkı B_PERSON
+sıtkı I_PERSON
 tarancı E_PERSON
 35 O
 yaş O
@@ -4544,7 +4544,7 @@ bana O
 
 @ceyhunyilmazz S_PERSON
 ahmet B_PERSON
-hamdi B_PERSON
+hamdi I_PERSON
 tanpınar E_PERSON
 'bir O
 adın O
@@ -9023,16 +9023,7 @@ amk O
 
 @blisssyndrome S_PERSON
 Ege B_LOCATION
-Üniversitesi B_LOCATION
-Fen B_LOCATION
-Fakültesi B_LOCATION
-D B_LOCATION
-Blok B_LOCATION
-(Fizik B_LOCATION
-- B_LOCATION
-Kimya B_LOCATION
-- B_LOCATION
-Biyokimya B_LOCATION
+Üniversitesi I_LOCATION
 Bölümü) E_LOCATION
 :D O
 

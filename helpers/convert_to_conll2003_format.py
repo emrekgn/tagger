@@ -68,7 +68,9 @@ with open(opts.muc, "r") as muc, open(os.path.join(dataset_conll_path, "input.tx
                         new_token = groups[1]
                         iobes_tag = "B"
                         conll.write("{0} {1}_{2}\n".format(new_token, iobes_tag, label_type))
+                # Inside label
                 elif iobes_tag == "B" and prev_label_type:
+                    iobes_tag = "I"
                     conll.write("{0} {1}_{2}\n".format(token, iobes_tag, prev_label_type))
             else:
                 conll.write(token + " O\n")

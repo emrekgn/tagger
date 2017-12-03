@@ -6801,7 +6801,7 @@ edyruz O
 :) O
 
 doğan B_PERSON
-eray B_PERSON
+eray I_PERSON
 korucunun E_PERSON
 şarkıları O
 çokoş O
@@ -9149,7 +9149,7 @@ güneş O
 deniz O
 konak O
 alsancak B_LOCATION
-kordon B_LOCATION
+kordon I_LOCATION
 küçükpark E_LOCATION
 ama O
 bugün O
