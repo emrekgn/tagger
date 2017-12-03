@@ -23,7 +23,8 @@ if not os.path.exists(dataset_conll_path):
     os.makedirs(dataset_conll_path)
 
 with open(opts.muc, "r") as muc, open(os.path.join(dataset_conll_path, "input.txt"), "w+") as conll:
-    for line in muc:
+    numb_label = 0
+    for c, line in enumerate(muc):
         tokens = line.strip().split()
         is_label = False
         iobes_tag = None
@@ -33,6 +34,7 @@ with open(opts.muc, "r") as muc, open(os.path.join(dataset_conll_path, "input.tx
                 is_label = True
                 iobes_tag = None
                 prev_label_type = None
+                numb_label += 1
                 continue
             if is_label:
                 if 'e_enamex' in token:
@@ -71,3 +73,4 @@ with open(opts.muc, "r") as muc, open(os.path.join(dataset_conll_path, "input.tx
             else:
                 conll.write(token + " O\n")
         conll.write("\n")
+    print("Number of tweets: {0} Number of named entities: {1}".format(c, numb_label))
