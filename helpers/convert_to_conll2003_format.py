@@ -46,7 +46,7 @@ with open(opts.muc, "r") as muc, open(os.path.join(dataset_conll_path, "input.tx
                             label_type = groups[0]
                             new_token = groups[1]
                             iobes_tag = "S"
-                            conll.write("{0} {1}_{2}\n".format(new_token, iobes_tag, label_type))
+                            conll.write("{0} {1}-{2}\n".format(new_token, iobes_tag, label_type))
                     # End label
                     else:
                         search_result = re.search(r'(.*)<e_enamex>', token)
@@ -56,7 +56,7 @@ with open(opts.muc, "r") as muc, open(os.path.join(dataset_conll_path, "input.tx
                                 label_type = prev_label_type
                                 new_token = groups[0]
                                 iobes_tag = "E"
-                                conll.write("{0} {1}_{2}\n".format(new_token, iobes_tag, label_type))
+                                conll.write("{0} {1}-{2}\n".format(new_token, iobes_tag, label_type))
                     is_label = False
                 # Begin label
                 elif iobes_tag is None:
@@ -67,11 +67,11 @@ with open(opts.muc, "r") as muc, open(os.path.join(dataset_conll_path, "input.tx
                         prev_label_type = label_type
                         new_token = groups[1]
                         iobes_tag = "B"
-                        conll.write("{0} {1}_{2}\n".format(new_token, iobes_tag, label_type))
+                        conll.write("{0} {1}-{2}\n".format(new_token, iobes_tag, label_type))
                 # Inside label
                 elif iobes_tag == "B" and prev_label_type:
                     iobes_tag = "I"
-                    conll.write("{0} {1}_{2}\n".format(token, iobes_tag, prev_label_type))
+                    conll.write("{0} {1}-{2}\n".format(token, iobes_tag, prev_label_type))
             else:
                 conll.write(token + " O\n")
         conll.write("\n")

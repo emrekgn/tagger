@@ -53,11 +53,11 @@ optparser.add_option(
     type='int', help="Use a bidirectional LSTM for chars"
 )
 optparser.add_option(
-    "-w", "--word_dim", default="100",
+    "-w", "--word_dim", default="300",
     type='int', help="Token embedding dimension"
 )
 optparser.add_option(
-    "-W", "--word_lstm_dim", default="100",
+    "-W", "--word_lstm_dim", default="300",
     type='int', help="Token LSTM hidden layer size"
 )
 optparser.add_option(
@@ -146,9 +146,9 @@ dev_sentences = loader.load_sentences(opts.dev, lower, zeros)
 test_sentences = loader.load_sentences(opts.test, lower, zeros)
 
 # Use selected tagging scheme (IOB / IOBES)
-update_tag_scheme(train_sentences, tag_scheme)
-update_tag_scheme(dev_sentences, tag_scheme)
-update_tag_scheme(test_sentences, tag_scheme)
+#update_tag_scheme(train_sentences, tag_scheme)
+#update_tag_scheme(dev_sentences, tag_scheme)
+#update_tag_scheme(test_sentences, tag_scheme)
 
 # Create a dictionary / mapping of words
 # If we use pretrained embeddings, we add them to the dictionary.

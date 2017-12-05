@@ -1,11 +1,11 @@
-@TugceTuran2 S_PERSON
+@TugceTuran2 S-PERSON
 Son O
 1 O
 sene O
 sabret O
 :D O
 
-@guney44 S_PERSON
+@guney44 S-PERSON
 acımasız O
 gaddar O
 herif O
@@ -17,13 +17,13 @@ acımazmısın O
 yaa O
 :D O
 
-@nursena_polat S_PERSON
+@nursena_polat S-PERSON
 Koskoca O
 12 O
 sene O
-Nursena S_PERSON
+Nursena S-PERSON
 siz O
-Sivası<e_enamex> S_LOCATION
+Sivası<e_enamex> S-LOCATION
 da O
 yenicektiniz O
 ne O
@@ -42,7 +42,7 @@ kaccaam O
 simdiii O
 :) O
 
-@handebekcan S_PERSON
+@handebekcan S-PERSON
 oh O
 süper O
 :D O
@@ -66,7 +66,7 @@ yoktur O
 adam O
 vardır O
 
-@buzmavisioje S_PERSON
+@buzmavisioje S-PERSON
 çocukluğumdan O
 beri O
 hastasıyım O
@@ -83,13 +83,13 @@ isterdim O
 işte... O
 :D O
 
-@gupseo S_PERSON
+@gupseo S-PERSON
 ortaokuluna O
 kadar O
-ingiltere S_LOCATION
-paris S_LOCATION
-fransa S_LOCATION
-londra S_LOCATION
+ingiltere S-LOCATION
+paris S-LOCATION
+fransa S-LOCATION
+londra S-LOCATION
 arasindan O
 hangisi O
 ulke O
@@ -100,7 +100,7 @@ de O
 cahaldim O
 :D O
 
-@Liam__Payne1D S_PERSON
+@Liam__Payne1D S-PERSON
 şotofok O
 olduğunu O
 biliyorum O
@@ -109,7 +109,7 @@ hatta O
 justinli O
 görmüştüm O
 ama O
-Harry S_PERSON
+Harry S-PERSON
 ne O
 cevap O
 verceğini O
@@ -153,7 +153,7 @@ etmiyoruz O
 #RETWETCİLEREHAYIR O
 . O
 
-@serdemerol S_PERSON
+@serdemerol S-PERSON
 aman O
 yok O
 allah O
@@ -165,7 +165,7 @@ aynıları O
 ísterim O
 ama O
 
-@GlSar2 S_PERSON
+@GlSar2 S-PERSON
 Ahaha O
 :D O
 seni O
@@ -180,7 +180,7 @@ ama O
 haklısınız O
 :D O
 
-@dilokos1 S_PERSON
+@dilokos1 S-PERSON
 surtuk O
 den O
 bahsediyosun.Onun O
@@ -204,12 +204,12 @@ tavan O
 :D O
 #muzikicinefes O
 
-Fenerliler S_ORGANIZATION
+Fenerliler S-ORGANIZATION
 dua O
-GS S_ORGANIZATION
-TS S_ORGANIZATION
+GS S-ORGANIZATION
+TS S-ORGANIZATION
 de O
-BJK S_ORGANIZATION
+BJK S-ORGANIZATION
 de O
 elenirse O
 bu O
@@ -218,12 +218,12 @@ kupa O
 galiba O
 bizim. O
 
-@UgurOzdagli S_PERSON
+@UgurOzdagli S-PERSON
 Çaktırma O
 olm O
 :D O
 
-@alpercesurr S_PERSON
+@alpercesurr S-PERSON
 kardesim O
 sen O
 daha O
@@ -237,21 +237,21 @@ geldi O
 An O
 itibariyle O
 elimde O
-TYPE="DATE">Cumartesi E_None
+TYPE="DATE">Cumartesi E-None
 akşamı O
 için O
 2 O
 kişilik O
-Duman S_PERSON
+Duman S-PERSON
 konseri O
 bileti O
 var O
 :) O
 
-@hadiseali S_PERSON
+@hadiseali S-PERSON
 Ben O
 yazın O
-kıbrısa S_LOCATION
+kıbrısa S-LOCATION
 gelcem O
 :D O
 
@@ -279,7 +279,7 @@ dış O
 yüzdesini O
 devam O
 ettiremedi... O
-CSKA S_PERSON
+CSKA S-PERSON
 64 O
 sayıda O
 tuttuğumuzu O
@@ -308,7 +308,7 @@ günlerden O
 Kuzey O
 :D O
 
-@dreamwalker_10 S_PERSON
+@dreamwalker_10 S-PERSON
 :D O
 şapşaal O
 :D O
@@ -334,10 +334,10 @@ kaçtım O
 :) O
 
 RT O
-@oncicek: S_PERSON
-Mayıs E_None
+@oncicek: S-PERSON
+Mayıs E-None
 Hıdrellez O
-Parkorman S_LOCATION
+Parkorman S-LOCATION
 yahu O
 :) O
 
@@ -349,8 +349,8 @@ galıba O
 :D O
 
 RT O
-@Harry_Styles: S_PERSON
-@Natcarter_x S_PERSON
+@Harry_Styles: S-PERSON
+@Natcarter_x S-PERSON
 thanks O
 for O
 the O
@@ -360,17 +360,17 @@ names O
 haha O
 
 RT O
-@aslihanozalp: S_PERSON
+@aslihanozalp: S-PERSON
 Biraz O
 cocuk,biraz O
 adam,biraz O
 hiçti... O
 
-@FleetStreeet S_PERSON
+@FleetStreeet S-PERSON
 anlastik O
 :D O
 
-@elfyllmz S_PERSON
+@elfyllmz S-PERSON
 zeki O
 oldugumu O
 liseden O
@@ -378,14 +378,14 @@ biliyodun O
 zaten O
 :D O
 
-Ajda B_PERSON
-Pekkan E_PERSON
+Ajda B-PERSON
+Pekkan E-PERSON
 kızıp O
 şarkıci O
 olacak O
-Cemil B_PERSON
-Ipekçi E_PERSON
-Ajdar S_PERSON
+Cemil B-PERSON
+Ipekçi E-PERSON
+Ajdar S-PERSON
 şarkısından O
 daha O
 sükse O
@@ -403,7 +403,7 @@ VARSAAA.. O
 :) O
 <3<3<3 O
 
-@HalilCabuuk S_PERSON
+@HalilCabuuk S-PERSON
 aynen O
 bosuna O
 ortak O
@@ -413,7 +413,7 @@ sana O
 ortaaak O
 :D O
 
-@humeyrakayaa S_PERSON
+@humeyrakayaa S-PERSON
 özür O
 dileriz, O
 ne O
@@ -422,7 +422,7 @@ dövme O
 abla O
 :( O
 
-@1KanBilginoglu S_PERSON
+@1KanBilginoglu S-PERSON
 oy O
 kankasının O
 gülüne O
@@ -446,7 +446,7 @@ gitcek O
 smdii O
 :D O
 
-@hhavci S_PERSON
+@hhavci S-PERSON
 bidakine O
 senle O
 hacı O
@@ -476,7 +476,7 @@ yazdım O
 mutluyum O
 :D O
 
-@sogratesia S_PERSON
+@sogratesia S-PERSON
 Vitrindekiler O
 zaten O
 sus O
@@ -488,7 +488,7 @@ gerek O
 yok O
 :) O
 
-@saba_t S_PERSON
+@saba_t S-PERSON
 mrb O
 ne O
 güzel O
@@ -508,19 +508,19 @@ yazasım O
 geldi O
 :D O
 
-@gecemaviisiii S_PERSON
+@gecemaviisiii S-PERSON
 he O
 vallaa O
 :D O
 
-@mubu93 S_PERSON
+@mubu93 S-PERSON
 saol O
 ablam. O
-TYPE="DATE">Cuma E_None
+TYPE="DATE">Cuma E-None
 gelebilicem O
 :) O
 
-@ilknurcnr S_PERSON
+@ilknurcnr S-PERSON
 öylemi O
 yapmışım? O
 O O
@@ -529,10 +529,10 @@ olmuş O
 mu O
 :) O
 
-@beyzadaginik S_PERSON
+@beyzadaginik S-PERSON
 jump O
 to O
-facebook S_ORGANIZATION
+facebook S-ORGANIZATION
 :) O
 
 Na O
@@ -567,7 +567,7 @@ artık O
 :( O
 #muzikicinefes O
 
-@intizamikelam S_PERSON
+@intizamikelam S-PERSON
 Haha:D O
 diğer O
 şıkkı O
@@ -579,7 +579,7 @@ yanıltıyordu O
 ama O
 hihhii;D O
 
-@ahmethc S_PERSON
+@ahmethc S-PERSON
 Evlenin O
 ama O
 Su O
@@ -599,10 +599,10 @@ okuycaksiniz O
 :) O
 ! O
 
-@yagmurcoskunn S_PERSON
+@yagmurcoskunn S-PERSON
 Evet O
 :) O
-Gökçe S_PERSON
+Gökçe S-PERSON
 burda O
 . O
 
@@ -624,13 +624,13 @@ sanıyodu O
 laan O
 :D O
 
-@elifegin S_PERSON
+@elifegin S-PERSON
 tamam O
 o O
 zaman O
 :D O
 
-@GizemIi S_PERSON
+@GizemIi S-PERSON
 Yok O
 bebeğim O
 biliyorum O
@@ -651,12 +651,12 @@ daha O
 gelicek O
 :) O
 
-@mrvsrkya S_PERSON
+@mrvsrkya S-PERSON
 yazık O
 sana O
 :D O
 
-@Batuhan1905KcK S_PERSON
+@Batuhan1905KcK S-PERSON
 121 O
 soruda O
 113 O
@@ -689,12 +689,12 @@ icimden O
 neler O
 sayiyorum.Neyse O
 
-@seraaydeniz S_PERSON
+@seraaydeniz S-PERSON
 saol O
 yagmuurr O
 :D O
 
-@ahmet_dal S_PERSON
+@ahmet_dal S-PERSON
 allah O
 iyilik O
 versin O
@@ -709,23 +709,23 @@ düşün O
 :D O
 :D O
 
-@seyirlikomur S_PERSON
+@seyirlikomur S-PERSON
 ahahhaha O
 cok O
 tehlikeli O
 cok O
 :) O
 
-@ahmethc S_PERSON
+@ahmethc S-PERSON
 Fenaadır O
 ;) O
 
-@pinaratacan S_PERSON
+@pinaratacan S-PERSON
 günaydın O
 :) O
 
 RT O
-@KacarMrt: S_PERSON
+@KacarMrt: S-PERSON
 BigaAtatürkAnadolu'Caps' O
 diye O
 sayfa O
@@ -742,7 +742,7 @@ yine O
 telefondayım O
 :) O
 
-@SertacAkkan S_PERSON
+@SertacAkkan S-PERSON
 sesli O
 güldüm O
 :) O
@@ -751,7 +751,7 @@ Offf O
 iyi O
 ya! O
 
-@Qe_boy S_PERSON
+@Qe_boy S-PERSON
 çok O
 güzel O
 hareketler O
@@ -773,7 +773,7 @@ akıllı O
 olun O
 ;) O
 
-@xelfefiloglu S_PERSON
+@xelfefiloglu S-PERSON
 aa O
 bize O
 gell O
@@ -784,7 +784,7 @@ sürü O
 varr O
 :D O
 
-@gizemberkyrek S_PERSON
+@gizemberkyrek S-PERSON
 tam O
 da O
 matematik O
@@ -805,12 +805,12 @@ uzay O
 mekiğine O
 :D O
 
-@ozlmaykt S_PERSON
+@ozlmaykt S-PERSON
 unuturmym O
 hiç O
 salarha O
 deresini O
-Güneysu S_LOCATION
+Güneysu S-LOCATION
 olması O
 lazım O
 yanlış O
@@ -818,10 +818,10 @@ bilmiyorsam O
 yani O
 sen O
 aslında O
-Güneysulusun S_LOCATION
+Güneysulusun S-LOCATION
 :) O
 
-@PelinSelcuk S_PERSON
+@PelinSelcuk S-PERSON
 ben O
 hıc O
 oyle O
@@ -842,7 +842,7 @@ ne O
 annem O
 :) O
 
-@berilmugegunay S_PERSON
+@berilmugegunay S-PERSON
 malesef O
 :D O
 neyse O
@@ -855,9 +855,9 @@ kanka O
 :D O
 
 bu O
-red B_ORGANIZATION
-hot I_ORGANIZATION
-chiliye E_ORGANIZATION
+red B-ORGANIZATION
+hot I-ORGANIZATION
+chiliye E-ORGANIZATION
 bayılırdım O
 ama O
 şarkı O
@@ -885,10 +885,10 @@ kullanarak O
 konusucam O
 :D O
 
-Gs S_ORGANIZATION
+Gs S-ORGANIZATION
 Tv O
-Hasan B_PERSON
-Şaş E_PERSON
+Hasan B-PERSON
+Şaş E-PERSON
 yarasını O
 göstermiştin.Hala O
 İnanmayan O
@@ -918,7 +918,7 @@ ediyorum O
 çünkü O
 :( O
 
-@NAZLIKEKUL S_PERSON
+@NAZLIKEKUL S-PERSON
 :) O
 
 Ne O
@@ -960,7 +960,7 @@ gibi O
 yahu O
 :D O
 
-@GulnaraRozyyeva S_PERSON
+@GulnaraRozyyeva S-PERSON
 şimdi O
 konular O
 karıştı O
@@ -974,7 +974,7 @@ onu O
 bilemedim O
 :D O
 
-@bsragedikoglu S_PERSON
+@bsragedikoglu S-PERSON
 başarılarr O
 :D O
 
@@ -991,7 +991,7 @@ bile O
 bulamıyorum. O
 :D O
 
-@MerveeNaz S_PERSON
+@MerveeNaz S-PERSON
 form O
 korumak O
 için O
@@ -999,7 +999,7 @@ yenimi O
 bu O
 :) O
 
-@niahval S_PERSON
+@niahval S-PERSON
 Genelde O
 kansızlar O
 bi O
@@ -1021,8 +1021,8 @@ bul O
 bulabilirsen. O
 :) O
 
-@cokefendicocuk S_PERSON
-@melistzn S_PERSON
+@cokefendicocuk S-PERSON
+@melistzn S-PERSON
 Başladık O
 amk O
 :D O
@@ -1032,13 +1032,13 @@ güney O
 timee.. O
 ;) O
 
-@kanattakmissaat S_PERSON
+@kanattakmissaat S-PERSON
 Yeter O
 o O
 yeter O
 :D O
 
-@miss_mnemosyne S_PERSON
+@miss_mnemosyne S-PERSON
 ozmm O
 sana O
 google O
@@ -1046,14 +1046,14 @@ cı O
 dıyelım O
 :) O
 
-@VIPbinjip S_PERSON
+@VIPbinjip S-PERSON
 evet O
 evet O
 evetttt!!! O
 :D O
 
-@semihtali S_PERSON
-GS S_ORGANIZATION
+@semihtali S-PERSON
+GS S-ORGANIZATION
 maçı O
 içinde O
 mi O
@@ -1068,13 +1068,13 @@ iyi O
 olurdu O
 :D O
 
-@BeyzaYeter S_PERSON
+@BeyzaYeter S-PERSON
 hahahah O
 bilirim O
 bilirim O
 :D O
 
-@EzgiMerveC S_PERSON
+@EzgiMerveC S-PERSON
 :SDD:SFSDF O
 haklısınn O
 :D O
@@ -1103,12 +1103,12 @@ bi' O
 dakka O
 oyunu O
 için O
-selahattin B_PERSON
-akçiçekteyiz E_PERSON
+selahattin B-PERSON
+akçiçekteyiz E-PERSON
 :) O
-@berkaysanveren S_PERSON
+@berkaysanveren S-PERSON
 
-@esraceydaersoy S_PERSON
+@esraceydaersoy S-PERSON
 Çok O
 sexisiniz O
 yaww O
@@ -1130,7 +1130,7 @@ verdiiiiiiii O
 :) O
 
 RT O
-@ReaI_Ljam_Payne: S_PERSON
+@ReaI_Ljam_Payne: S-PERSON
 I'm O
 following O
 the O
@@ -1138,9 +1138,9 @@ first O
 1OO O
 who O
 follows O
-@iKeepItTooReal S_PERSON
+@iKeepItTooReal S-PERSON
 + O
-@CrewOfPayne S_PERSON
+@CrewOfPayne S-PERSON
 :) O
 RT O
 if O
@@ -1151,7 +1151,7 @@ to O
 follow O
 u:) O
 
-@masalcicegii S_PERSON
+@masalcicegii S-PERSON
 dışardan O
 beni O
 görenler O
@@ -1163,24 +1163,24 @@ gelmiş O
 olabilirler O
 :D O
 
-@CannCetin S_PERSON
+@CannCetin S-PERSON
 imkansiz O
 bisey O
 yook O
 :) O
 
-@kafeyinsizask S_PERSON
+@kafeyinsizask S-PERSON
 ne O
 çabuk O
 kız O
 :) O
 
 RT O
-@akntna: S_PERSON
-Omer B_PERSON
-urundul E_PERSON
+@akntna: S-PERSON
+Omer B-PERSON
+urundul E-PERSON
 : O
-volkan S_PERSON
+volkan S-PERSON
 ılk O
 yarıyı O
 yanlıs O
@@ -1203,9 +1203,9 @@ ben O
 ya O
 :( O
 
-@Harry_Styles S_PERSON
+@Harry_Styles S-PERSON
 Hello, O
-Harry S_PERSON
+Harry S-PERSON
 I O
 have O
 a O
@@ -1216,17 +1216,17 @@ you O
 very O
 much. O
 Name O
-Betül S_PERSON
+Betül S-PERSON
 you O
 write O
 I O
 love O
 you, O
-Betul S_PERSON
+Betul S-PERSON
 Pleaseee.. O
 :D O
 
-@dln_blc S_PERSON
+@dln_blc S-PERSON
 hahahhaa O
 :D O
 cuk O
@@ -1235,7 +1235,7 @@ ama, O
 yoksa O
 gulmezdikk O
 
-@LollitaDolores S_PERSON
+@LollitaDolores S-PERSON
 öyle O
 :) O
 2 O
@@ -1260,8 +1260,8 @@ otudrıunuz O
 işte O
 
 Eger O
-Nazlı B_PERSON
-hanım E_PERSON
+Nazlı B-PERSON
+hanım E-PERSON
 yine O
 bir O
 aksilik O
@@ -1273,20 +1273,20 @@ Hadi O
 bakalım O
 :D O
 
-@Eminee1905 S_PERSON
+@Eminee1905 S-PERSON
 :) O
 :) O
 çook O
 güzelmiş O
 :))9 O
 
-Ajdarın S_PERSON
+Ajdarın S-PERSON
 yeni O
 şarkısını O
 alarm O
 sesim O
 yapmayı O
-Ajdaaaaaaaaaaaaarr S_PERSON
+Ajdaaaaaaaaaaaaarr S-PERSON
 diye O
 bağırsın O
 bütün O
@@ -1294,7 +1294,7 @@ mahale O
 uyanırız O
 :D O
 
-@TlhShnts S_PERSON
+@TlhShnts S-PERSON
 sınavda O
 full O
 çekip O
@@ -1320,14 +1320,14 @@ diyorlar O
 işte O
 :) O
 
-@Real_Liam_Payne S_PERSON
+@Real_Liam_Payne S-PERSON
 very O
 curious, O
 are O
 you O
 coming O
 to O
-Turkey S_LOCATION
+Turkey S-LOCATION
 love O
 directioner O
 please O
@@ -1338,7 +1338,7 @@ you O
 :) O
 x O
 
-@jasmineocakoglu S_PERSON
+@jasmineocakoglu S-PERSON
 boşuna O
 uğraşma O
 :) O
@@ -1346,12 +1346,12 @@ ben O
 gitmeyecegim O
 :) O
 
-@BeyinMaratonda_ S_PERSON
+@BeyinMaratonda_ S-PERSON
 kanka O
 sakaydı O
 :D O
 
-@dilaraksr S_PERSON
+@dilaraksr S-PERSON
 l O
 harfini O
 büyük O
@@ -1401,7 +1401,7 @@ ne O
 oluuum O
 :D O
 
-@cerenkiral S_PERSON
+@cerenkiral S-PERSON
 hahahahah O
 ama O
 baliga O
@@ -1410,7 +1410,7 @@ raki, O
 meze O
 :) O
 
-@Ebr_Ysr S_PERSON
+@Ebr_Ysr S-PERSON
 mühim O
 bişi O
 değil O
@@ -1421,8 +1421,8 @@ yok O
 :) O
 
 RT O
-@intizamikelam: S_PERSON
-@Muhammedali_MF S_PERSON
+@intizamikelam: S-PERSON
+@Muhammedali_MF S-PERSON
 Genelde O
 konu O
 aşk O
@@ -1438,7 +1438,7 @@ kaynağımdır O
 o...Hünkâ O
 ... O
 
-@ZeynepTasskin S_PERSON
+@ZeynepTasskin S-PERSON
 Arada O
 abini O
 de O
@@ -1461,7 +1461,7 @@ ya O
 da O
 karısı O
 
-@DjSelimSuata S_PERSON
+@DjSelimSuata S-PERSON
 hehe O
 :) O
 
@@ -1485,7 +1485,7 @@ kızattılar O
 hahahah O
 :D O
 
-@ucyuzotuz3 S_PERSON
+@ucyuzotuz3 S-PERSON
 22 O
 saat O
 sonra O
@@ -1502,17 +1502,17 @@ yapabiliriz O
 bay O
 :D O
 
-@Ozgeaydnnn S_PERSON
+@Ozgeaydnnn S-PERSON
 iddalımısın O
 ? O
 :D O
 
 RT O
-@rasihyilmaz: S_PERSON
-Y.Demirören S_PERSON
+@rasihyilmaz: S-PERSON
+Y.Demirören S-PERSON
 ve O
 8 O
-BJK S_ORGANIZATION
+BJK S-ORGANIZATION
 li O
 yönetici O
 hakkında O
@@ -1533,7 +1533,7 @@ yıl O
 hapis O
 isteniyor O
 
-@berktartan S_PERSON
+@berktartan S-PERSON
 Yeşil O
 sahalardan O
 kalan O
@@ -1553,10 +1553,10 @@ kimse O
 bulamaz O
 :) O
 
-@MesajBilibilisi S_PERSON
+@MesajBilibilisi S-PERSON
 sen O
-Doğu B_PERSON
-Yücel E_PERSON
+Doğu B-PERSON
+Yücel E-PERSON
 retweetlemişsin O
 falan O
 şaşırdım O
@@ -1565,7 +1565,7 @@ Mesaj O
 Bilibilim O
 :) O
 
-Zekeriya S_PERSON
+Zekeriya S-PERSON
 hoca O
 müthiş O
 ya O
@@ -1577,25 +1577,25 @@ giriyorum O
 :D O
 
 Single O
-Pazartesi E_None
+Pazartesi E-None
 günü O
 çıkıyor... O
 :) O
 
-@VeciheA S_PERSON
+@VeciheA S-PERSON
 Ne O
 yaptınız? O
 Nerde O
 görüştün? O
 :) O
 
-@1D1DTurkey1D1D S_PERSON
+@1D1DTurkey1D1D S-PERSON
 ben O
-Karşıyaka S_LOCATION
+Karşıyaka S-LOCATION
 :) O
 daha O
 önce O
-İzmir S_LOCATION
+İzmir S-LOCATION
 geldin O
 mi O
 ? O
@@ -1605,7 +1605,7 @@ cook O
 mutluyumm O
 :) O
 
-@zerdacal S_PERSON
+@zerdacal S-PERSON
 sanırım O
 hemen O
 düzeltmiş O
@@ -1628,7 +1628,7 @@ mii? O
 zor O
 ya O
 
-@cansualberi S_PERSON
+@cansualberi S-PERSON
 ay O
 hic O
 sormaa O
@@ -1642,7 +1642,7 @@ gez O
 havasi O
 :) O
 
-@_eceMen_ S_PERSON
+@_eceMen_ S-PERSON
 ben O
 ve O
 pis O
@@ -1656,7 +1656,7 @@ olur O
 onlar O
 :D O
 
-@frkygt S_PERSON
+@frkygt S-PERSON
 hayııııırrr O
 okulun O
 bulunduğu O
@@ -1693,7 +1693,7 @@ hadı O
 by O
 :D O
 
-@LoveGaga1725 S_PERSON
+@LoveGaga1725 S-PERSON
 Allah O
 Korusun O
 yani O
@@ -1702,35 +1702,35 @@ ayni O
 anda O
 deme:) O
 
-@ZaynnEsraaMalik S_PERSON
-@Hazza_Curly S_PERSON
+@ZaynnEsraaMalik S-PERSON
+@Hazza_Curly S-PERSON
 bır O
 sanıye O
 :D O
 
-@NuurSenaa S_PERSON
+@NuurSenaa S-PERSON
 bugün O
 çok O
 iyidin O
 canımmm O
 :) O
 
-@Burakkocali S_PERSON
+@Burakkocali S-PERSON
 aahhh O
 gozum O
 aciiyyy O
 :( O
 
-@yokyasen S_PERSON
+@yokyasen S-PERSON
 çıkarma O
 sinan O
 akçılım O
 :D O
 
-@_cns_ S_PERSON
+@_cns_ S-PERSON
 tanımazsın O
 arkadasın O
-Suat S_PERSON
+Suat S-PERSON
 :) O
 
 #turkunuzaylaimtihani O
@@ -1742,11 +1742,11 @@ diziye O
 benziyor O
 :D O
 
-@ireemyazici S_PERSON
+@ireemyazici S-PERSON
 ahahahaha O
 :D O
 
-Cağla S_PERSON
+Cağla S-PERSON
 karakterine O
 Asık O
 olduğum O
@@ -1768,13 +1768,13 @@ gectım O
 bıde O
 horluyo O
 
-Antalyaya<e_enamex> S_LOCATION
+Antalyaya<e_enamex> S-LOCATION
 baaak O
-Trabzon<e_enamex> S_LOCATION
+Trabzon<e_enamex> S-LOCATION
 eliyor O
 :D O
 
-@ibbbeyazmasa S_PERSON
+@ibbbeyazmasa S-PERSON
 o O
 zaman O
 halk O
@@ -1793,15 +1793,15 @@ onlarda O
 ozel O
 :)) O
 
-Messiiiii S_PERSON
-messiiiii S_PERSON
-messiiii S_PERSON
+Messiiiii S-PERSON
+messiiiii S-PERSON
+messiiii S-PERSON
 bu O
 adam O
 neyin O
 nesiiiiiiii O
 
-@merveeAydn7 S_PERSON
+@merveeAydn7 S-PERSON
 ahahah O
 ozlemissindir O
 diye O
@@ -1814,7 +1814,7 @@ Sow: O
 Biz O
 bu O
 sene O
-Türkiye S_LOCATION
+Türkiye S-LOCATION
 Kupasını O
 kesin O
 alıcaz! O
@@ -1826,7 +1826,7 @@ galiba O
 :D O
 :D O
 
-@simaysanli S_PERSON
+@simaysanli S-PERSON
 evet O
 ben O
 senin O
@@ -1845,7 +1845,7 @@ efekanı O
 yeniyorum O
 :D O
 
-@djmhusty S_PERSON
+@djmhusty S-PERSON
 kalp O
 :) O
 
@@ -1863,7 +1863,7 @@ evcil O
 değilim O
 xd O
 
-@aslinurkarakas S_PERSON
+@aslinurkarakas S-PERSON
 sen O
 yokken O
 ne O
@@ -1876,24 +1876,24 @@ gibi O
 hissettim O
 :D O
 
-@balaraa S_PERSON
+@balaraa S-PERSON
 gecer O
 :D O
 
-Omer B_PERSON
-urundul E_PERSON
+Omer B-PERSON
+urundul E-PERSON
 ne O
 fanatik O
-trabzonluymus S_LOCATION
+trabzonluymus S-LOCATION
 adam O
 aglicak O
 simdi O
 
-@pelnglbg S_PERSON
+@pelnglbg S-PERSON
 slm O
 
 RT O
-@zaynmaIiks: S_PERSON
+@zaynmaIiks: S-PERSON
 I'm O
 following O
 the O
@@ -1901,9 +1901,9 @@ first O
 1OO O
 who O
 follows O
-@iKeepItTooReal S_PERSON
+@iKeepItTooReal S-PERSON
 + O
-@CrewOfPayne S_PERSON
+@CrewOfPayne S-PERSON
 :) O
 RT O
 if O
@@ -1914,35 +1914,35 @@ to O
 follow O
 u:) O
 
-Fenerbahçe S_ORGANIZATION
-Samsun<e_enamex> S_LOCATION
+Fenerbahçe S-ORGANIZATION
+Samsun<e_enamex> S-LOCATION
 maçını O
 heycanla O
 bekliyoruum O
 :) O
 
-@ceyhunyilmazz S_PERSON
+@ceyhunyilmazz S-PERSON
 sen O
 benim O
 17 O
 yasimsin... O
 :) O
 
-@mavi_boncuk_30 S_PERSON
+@mavi_boncuk_30 S-PERSON
 hic O
 yuzude O
 kizarmiyor O
 ki O
 :) O
 
-@mavi_boncuk_30 S_PERSON
+@mavi_boncuk_30 S-PERSON
 hic O
 yuzude O
 kizarmiyor O
 ki O
 :) O
 
-@reinamartini S_PERSON
+@reinamartini S-PERSON
 usta O
 slm.bana O
 versiyon O
@@ -1964,7 +1964,7 @@ dizimin O
 kitab, O
 qulagimda O
 nausnik. O
-Aynstein S_PERSON
+Aynstein S-PERSON
 axtariram O
 ki, O
 menim O
@@ -1984,7 +1984,7 @@ dizimin O
 kitab, O
 qulagimda O
 nausnik. O
-Aynstein S_PERSON
+Aynstein S-PERSON
 axtariram O
 ki, O
 menim O
@@ -1997,7 +1997,7 @@ anlasin. O
 
 hgıfjdfkdls O
 
-Cağla S_PERSON
+Cağla S-PERSON
 karakterine O
 Asık O
 olduğum O
@@ -2011,7 +2011,7 @@ Lanet O
 ya. O
 :D O
 
-@ibbbeyazmasa S_PERSON
+@ibbbeyazmasa S-PERSON
 o O
 zaman O
 halk O
@@ -2030,7 +2030,7 @@ onlarda O
 ozel O
 :)) O
 
-@merveeAydn7 S_PERSON
+@merveeAydn7 S-PERSON
 ahahah O
 ozlemissindir O
 diye O
@@ -2039,7 +2039,7 @@ sitem O
 ediyodun O
 :D O
 
-@EceMya S_PERSON
+@EceMya S-PERSON
 #EceFiliziÇokSeviyorum O
 mesaja O
 bakarmısın O
@@ -2050,19 +2050,19 @@ Sow: O
 Biz O
 bu O
 sene O
-Türkiye S_LOCATION
+Türkiye S-LOCATION
 Kupasını O
 kesin O
 alıcaz! O
 
-Alex S_PERSON
+Alex S-PERSON
 Sen O
 yenisin O
 galiba O
 :D O
 :D O
 
-@simaysanli S_PERSON
+@simaysanli S-PERSON
 evet O
 ben O
 senin O
@@ -2074,7 +2074,7 @@ bile O
 aglamiyorum O
 :) O
 
-@djmhusty S_PERSON
+@djmhusty S-PERSON
 kalp O
 :) O
 
@@ -2092,7 +2092,7 @@ evcil O
 değilim O
 xd O
 
-@aslinurkarakas S_PERSON
+@aslinurkarakas S-PERSON
 sen O
 yokken O
 ne O
@@ -2111,7 +2111,7 @@ ve O
 açım O
 :D O
 
-@bVarliker S_PERSON
+@bVarliker S-PERSON
 Dogum O
 gunun O
 kutlu O
@@ -2122,9 +2122,9 @@ beraber O
 yillara O
 :) O
 
-@berna_lacin S_PERSON
-sarp B_PERSON
-akkayanin E_PERSON
+@berna_lacin S-PERSON
+sarp B-PERSON
+akkayanin E-PERSON
 oynadigi O
 filmin O
 galasinda O
@@ -2136,7 +2136,7 @@ icin O
 geldim O
 :) O
 
-@tiffanymargolis S_PERSON
+@tiffanymargolis S-PERSON
 *2. O
 sınıf O
 final O
@@ -2154,7 +2154,7 @@ dizimin O
 kitab, O
 qulagimda O
 nausnik. O
-Aynstein S_PERSON
+Aynstein S-PERSON
 axtariram O
 ki, O
 menim O
@@ -2167,18 +2167,18 @@ anlasin. O
 
 hgıfjdfkdls O
 
-@EceMya S_PERSON
+@EceMya S-PERSON
 #EceFiliziÇokSeviyorum O
 mesaja O
 bakarmısın O
 meleek O
 :) O
 
-@iathghlas S_PERSON
+@iathghlas S-PERSON
 :D O
 
 haydi O
-fenerbahçem S_ORGANIZATION
+fenerbahçem S-ORGANIZATION
 rahat O
 ve O
 bol O
@@ -2191,7 +2191,7 @@ haydi O
 şampiyon... O
 :) O
 
-@AybkeYrkli S_PERSON
+@AybkeYrkli S-PERSON
 bugünlerde O
 çok O
 canım O
@@ -2222,7 +2222,7 @@ ne O
 zamandıı? O
 :) O
 
-@bVarliker S_PERSON
+@bVarliker S-PERSON
 Dogum O
 gunun O
 kutlu O
@@ -2233,9 +2233,9 @@ beraber O
 yillara O
 :) O
 
-@berna_lacin S_PERSON
-sarp B_PERSON
-akkayanin E_PERSON
+@berna_lacin S-PERSON
+sarp B-PERSON
+akkayanin E-PERSON
 oynadigi O
 filmin O
 galasinda O
@@ -2247,7 +2247,7 @@ icin O
 geldim O
 :) O
 
-@tiffanymargolis S_PERSON
+@tiffanymargolis S-PERSON
 *2. O
 sınıf O
 final O
@@ -2276,12 +2276,12 @@ bastırmıyorum! O
 :) O
 
 RT O
-@ParanousAndroid: S_PERSON
+@ParanousAndroid: S-PERSON
 prezervatif O
 reklamı O
 yapacak O
 olsam, O
-Ajdar S_PERSON
+Ajdar S-PERSON
 babasının O
 üzgün O
 fotoğrafını O
@@ -2293,7 +2293,7 @@ da O
 pişmanlık O
 ... O
 
-@gulsumcck S_PERSON
+@gulsumcck S-PERSON
 ama O
 çoğu O
 zaman O
@@ -2320,8 +2320,8 @@ gelmeyenler O
 onlar O
 :D O
 
-@dygugncag S_PERSON
-@muzikicinefes S_PERSON
+@dygugncag S-PERSON
+@muzikicinefes S-PERSON
 Bende O
 hala O
 bir O
@@ -2337,9 +2337,9 @@ olacak O
 :D O
 sana O
 kızmış O
-Twitter S_ORGANIZATION
+Twitter S-ORGANIZATION
 
-@iathghlas S_PERSON
+@iathghlas S-PERSON
 :D O
 
 haydi O
@@ -2356,7 +2356,7 @@ haydi O
 şampiyon... O
 :) O
 
-@AybkeYrkli S_PERSON
+@AybkeYrkli S-PERSON
 bugünlerde O
 çok O
 canım O
@@ -2403,12 +2403,12 @@ bastırmıyorum! O
 :) O
 
 RT O
-@ParanousAndroid: S_PERSON
+@ParanousAndroid: S-PERSON
 prezervatif O
 reklamı O
 yapacak O
 olsam, O
-Ajdar S_PERSON
+Ajdar S-PERSON
 babasının O
 üzgün O
 fotoğrafını O
@@ -2420,7 +2420,7 @@ da O
 pişmanlık O
 ... O
 
-@gulsumcck S_PERSON
+@gulsumcck S-PERSON
 ama O
 çoğu O
 zaman O
@@ -2447,8 +2447,8 @@ gelmeyenler O
 onlar O
 :D O
 
-@dygugncag S_PERSON
-@muzikicinefes S_PERSON
+@dygugncag S-PERSON
+@muzikicinefes S-PERSON
 Bende O
 hala O
 bir O
@@ -2464,7 +2464,7 @@ olacak O
 :D O
 sana O
 kızmış O
-Twitter S_ORGANIZATION
+Twitter S-ORGANIZATION
 
 Hahay O
 babam O
@@ -2476,14 +2476,14 @@ ediyo O
 Yarabbimm O
 :D O
 
-@CelebiGamze S_PERSON
+@CelebiGamze S-PERSON
 yahhh O
 :D O
 
 Ben O
-ant S_ORGANIZATION
+ant S-ORGANIZATION
 - O
-ts S_ORGANIZATION
+ts S-ORGANIZATION
 maçının O
 gözlemcisi O
 olsam O
@@ -2503,7 +2503,7 @@ yönetim... O
 
 Happy O
 Birthday O
-Twitter S_ORGANIZATION
+Twitter S-ORGANIZATION
 sayende O
 ne O
 kadar O
@@ -2512,14 +2512,14 @@ varsa O
 yapıyorum,yazıyorum O
 :) O
 
-@TKayserloglu S_PERSON
+@TKayserloglu S-PERSON
 tuğçecik O
 iyi O
 ki O
 doğmuuşşş O
 :) O
 
-@koksalih S_PERSON
+@koksalih S-PERSON
 salih O
 arayamıyorum O
 seni O
@@ -2538,7 +2538,7 @@ tekrar O
 dönersin O
 
 RT O
-@LeventUzumcu: S_PERSON
+@LeventUzumcu: S-PERSON
 günümün O
 sözü O
 :) O
@@ -2553,9 +2553,9 @@ gücü O
 ise O
 her O
 yere" O
-A.Einstein S_PERSON
+A.Einstein S-PERSON
 
-@egedenizz S_PERSON
+@egedenizz S-PERSON
 Adeks O
 için O
 yaşlandım O
@@ -2577,8 +2577,8 @@ bakarsın O
 dedi O
 bizimkiler O
 
-umut B_PERSON
-kayanın E_PERSON
+umut B-PERSON
+kayanın E-PERSON
 yanıma O
 yataydı O
 şarkısı O
@@ -2590,7 +2590,7 @@ olarak O
 gitsin O
 :P O
 
-@ilaydaaaC S_PERSON
+@ilaydaaaC S-PERSON
 evet O
 askım O
 gir O
@@ -2605,9 +2605,9 @@ bölüm O
 bak O
 :) O
 
-SDÜ B_LOCATION
-KILICARSALAN I_LOCATION
-KAMPÜSÜN E_LOCATION
+SDÜ B-LOCATION
+KILICARSALAN I-LOCATION
+KAMPÜSÜN E-LOCATION
 DE O
 NEVRUZ O
 KUTLAMSI O
@@ -2627,7 +2627,7 @@ I'm O
 clenched O
 :) O
 
-@Aycsnmez S_PERSON
+@Aycsnmez S-PERSON
 amk. O
 liselisi O
 mal O
@@ -2635,10 +2635,10 @@ fuzuli O
 :D O
 :D O
 
-@ceyhunyilmazz S_PERSON
-cahit B_PERSON
-sıtkı I_PERSON
-tarancı E_PERSON
+@ceyhunyilmazz S-PERSON
+cahit B-PERSON
+sıtkı I-PERSON
+tarancı E-PERSON
 35 O
 yaş O
 abi O
@@ -2656,18 +2656,18 @@ olabilir O
 istersen? O
 :) O
 
-@edaoncuu S_PERSON
+@edaoncuu S-PERSON
 bir O
 problem O
 mi O
 var O
 :D O
 
-@alparslanthisar S_PERSON
+@alparslanthisar S-PERSON
 slm O
 birader. O
 
-@meliisaydn S_PERSON
+@meliisaydn S-PERSON
 Nitekim O
 nefrette O
 bir O
@@ -2683,7 +2683,7 @@ bir O
 insanım O
 :( O
 
-@Elvinnn S_PERSON
+@Elvinnn S-PERSON
 wellcome O
 to O
 your O
@@ -2694,8 +2694,8 @@ sis O
 ;) O
 ? O
 
-keith B_PERSON
-zeuner E_PERSON
+keith B-PERSON
+zeuner E-PERSON
 think O
 I'm O
 refreshing O
@@ -2703,7 +2703,7 @@ and O
 invigorating O
 :) O
 
-@SemihAda S_PERSON
+@SemihAda S-PERSON
 aynen O
 katiliyorum O
 bursa O
@@ -2739,7 +2739,7 @@ etmeye O
 calısma O
 :DD:d:d: O
 
-@ebegumelcioglu S_PERSON
+@ebegumelcioglu S-PERSON
 degisik O
 bi O
 ornekmis O
@@ -2749,15 +2749,15 @@ fizik O
 çalışıyoruz O
 :( O
 
-@Nurtriandofily1 S_PERSON
+@Nurtriandofily1 S-PERSON
 3 O
 çocuğum O
 var O
 bakireyim O
 :) O
 
-ashlyn B_PERSON
-ipsen E_PERSON
+ashlyn B-PERSON
+ipsen E-PERSON
 think O
 I'm O
 spur O
@@ -2781,7 +2781,7 @@ hayır O
 yok O
 :D O
 
-@AtalayMelis S_PERSON
+@AtalayMelis S-PERSON
 ne O
 fazlasi O
 yaa O
@@ -2796,8 +2796,8 @@ hatirlamiyom O
 ben O
 :D O
 
-cayla B_PERSON
-elnick E_PERSON
+cayla B-PERSON
+elnick E-PERSON
 think O
 I'm O
 184. O
@@ -2810,7 +2810,7 @@ demekmis O
 lan O
 :( O
 
-@ZaynIsKing S_PERSON
+@ZaynIsKing S-PERSON
 Gerçekten O
 de O
 seksi O
@@ -2840,13 +2840,13 @@ kankaaa O
 ? O
 hadı O
 by O
-burcın S_PERSON
+burcın S-PERSON
 ben O
 :D O
 
 Bugüün O
 benim O
-Seda S_PERSON
+Seda S-PERSON
 doğum O
 günün O
 kutlu O
@@ -2857,7 +2857,7 @@ seni O
 seviyorummm O
 :) O
 ? O
-@sedarslan15 S_PERSON
+@sedarslan15 S-PERSON
 
 Ulan O
 psikoloji O
@@ -2879,22 +2879,22 @@ keyife O
 bak O
 :D O
 
-@BayErsanKuneri S_PERSON
+@BayErsanKuneri S-PERSON
 i O
 want O
 you O
 in O
 my O
 bedroom O
-@ipekmusaoglu S_PERSON
+@ipekmusaoglu S-PERSON
 :) O
 
-@ugurkihtir S_PERSON
+@ugurkihtir S-PERSON
 yaşlımı O
 vay O
 bunu O
 hatırlatırım O
-ankaraya S_LOCATION
+ankaraya S-LOCATION
 geldiğimizde O
 gundilere O
 :)) O
@@ -2905,7 +2905,7 @@ sana O
 takılıyorum O
 :) O
 
-@MrsOzdemr S_PERSON
+@MrsOzdemr S-PERSON
 Mesaj O
 attığımızda O
 nasıl O
@@ -2915,13 +2915,13 @@ anlamadım O
 :D O
 
 RT O
-@FratAldtmz: S_PERSON
-@humeyrakayaa S_PERSON
-@BeyzaAcr S_PERSON
-@selcankonur S_PERSON
+@FratAldtmz: S-PERSON
+@humeyrakayaa S-PERSON
+@BeyzaAcr S-PERSON
+@selcankonur S-PERSON
 sen O
-hilal B_PERSON
-cebeciyle E_PERSON
+hilal B-PERSON
+cebeciyle E-PERSON
 bana O
 tuzak O
 kurup O
@@ -2930,28 +2930,28 @@ iyidi O
 ama O
 :( O
 
-@asar_1998 S_PERSON
+@asar_1998 S-PERSON
 afiyet O
 olsun O
 :) O
 
-@disiJimCarrey S_PERSON
+@disiJimCarrey S-PERSON
 kankı O
 yardırıyoruuuzz O
 :D O
 
-@mserkan60 S_PERSON
+@mserkan60 S-PERSON
 Yapan O
 O'ysa O
 evet O
 :D O
 
-@bornovapici S_PERSON
+@bornovapici S-PERSON
 peki O
 :) O
 
-@Montalesche S_PERSON
-@ElifGuzelsuu S_PERSON
+@Montalesche S-PERSON
+@ElifGuzelsuu S-PERSON
 Ben O
 de O
 bende. O
@@ -2960,7 +2960,7 @@ ağlıcaktı O
 kırılıncaa O
 :D O
 
-@SerayyKaraa S_PERSON
+@SerayyKaraa S-PERSON
 oww O
 ciddi O
 mi O
@@ -2974,7 +2974,7 @@ sözde O
 çalışıyorum O
 :D O
 
-@PelinCifteer S_PERSON
+@PelinCifteer S-PERSON
 apaçi O
 gibiler O
 de O
@@ -2983,7 +2983,7 @@ yüzden O
 dedim O
 :D O
 
-@intizamikelam S_PERSON
+@intizamikelam S-PERSON
 abi O
 şöyle O
 bir O
@@ -2998,7 +2998,7 @@ geeel O
 derdik. O
 :) O
 
-@filizarda95 S_PERSON
+@filizarda95 S-PERSON
 naber O
 :) O
 
@@ -3025,8 +3025,8 @@ derdin O
 :D O
 :D O
 
-@uleverdendog S_PERSON
-@stelyop S_PERSON
+@uleverdendog S-PERSON
+@stelyop S-PERSON
 biz O
 duruşmadayız O
 yahu O
@@ -3040,7 +3040,7 @@ eğlenceler O
 Ülevcim O
 :) O
 
-@gizemceyhann S_PERSON
+@gizemceyhann S-PERSON
 Lann O
 mal O
 mısın O
@@ -3055,14 +3055,14 @@ seni O
 :D O
 
 RT O
-@_melisakaratas_: S_PERSON
-@KoralDogukan S_PERSON
+@_melisakaratas_: S-PERSON
+@KoralDogukan S-PERSON
 canım O
 sıkıldııı O
 :) O
 
 RT O
-@SHEkayetciyiz: S_PERSON
+@SHEkayetciyiz: S-PERSON
 Bir O
 adam O
 kalbimizi O
@@ -3082,7 +3082,7 @@ kafayı O
 yast O
 ... O
 
-@Muniseker S_PERSON
+@Muniseker S-PERSON
 babam O
 tamirciye O
 sormuş O
@@ -3120,19 +3120,19 @@ daha O
 ne O
 olsun! O
 
-@AslihannGurbuz S_PERSON
+@AslihannGurbuz S-PERSON
 #AslihanGurbuzuSeviyorum O
 hem O
 de O
 coook O
 :) O
 
-@azrakarc84 S_PERSON
+@azrakarc84 S-PERSON
 sevin O
 sevin O
 :D O
 
-@agarahmet9 S_PERSON
+@agarahmet9 S-PERSON
 aman O
 nasıl O
 olsun O
@@ -3147,7 +3147,7 @@ misin O
 ? O
 :D O
 
-@AnlyEda S_PERSON
+@AnlyEda S-PERSON
 Bende O
 çok O
 hastayım O
@@ -3156,7 +3156,7 @@ yüzden O
 yaptım O
 :) O
 
-@KrmOrhn S_PERSON
+@KrmOrhn S-PERSON
 hayıır O
 :( O
 
@@ -3165,7 +3165,7 @@ yüzyıl O
 zamanııı O
 :) O
 
-@ozgurozsumeroz S_PERSON
+@ozgurozsumeroz S-PERSON
 gelcem O
 len O
 ama O
@@ -3173,9 +3173,9 @@ ama O
 dujj O
 :D O
 
-@ceyhunyilmazz S_PERSON
-Ömer B_PERSON
-KÖROĞLU E_PERSON
+@ceyhunyilmazz S-PERSON
+Ömer B-PERSON
+KÖROĞLU E-PERSON
 Gittin O
 Ya.'' O
 /Beni O
@@ -3194,14 +3194,14 @@ bu O
 gece O
 :) O
 
-@hadiseali S_PERSON
+@hadiseali S-PERSON
 Al O
 lan O
 beni O
 airporttan O
 :D O
 
-@ConkerMustafa S_PERSON
+@ConkerMustafa S-PERSON
 oo O
 ne O
 diyosun O
@@ -3219,8 +3219,8 @@ oldu O
 zamanı O
 :) O
 
-@emrahoz S_PERSON
-@Bahar_Cakmak S_PERSON
+@emrahoz S-PERSON
+@Bahar_Cakmak S-PERSON
 Biri O
 ben O
 kazandım O
@@ -3229,7 +3229,7 @@ demişti O
 ??? O
 :D O
 
-@mbyesil S_PERSON
+@mbyesil S-PERSON
 Ahaha O
 bence O
 sen O
@@ -3237,8 +3237,8 @@ dikkat O
 etmelisin. O
 :D O
 
-@NikoMirzoev S_PERSON
-FB S_ORGANIZATION
+@NikoMirzoev S-PERSON
+FB S-ORGANIZATION
 nece O
 ildi O
 kubok O
@@ -3246,7 +3246,7 @@ uda O
 bilmir? O
 :D O
 
-@BlackEstella S_PERSON
+@BlackEstella S-PERSON
 Hiç O
 itiraz O
 da O
@@ -3254,7 +3254,7 @@ etmesun O
 kuzum O
 :) O
 
-@egekayali S_PERSON
+@egekayali S-PERSON
 Önce O
 follow O
 demişsin, O
@@ -3267,13 +3267,13 @@ baktım O
 unfollow O
 :( O
 
-@kzelish S_PERSON
+@kzelish S-PERSON
 oda O
 bende O
 kalsin O
 :) O
 
-@SelahattinAkyuz S_PERSON
+@SelahattinAkyuz S-PERSON
 Keko O
 xwîşka O
 te O
@@ -3281,9 +3281,9 @@ te O
 pir O
 betilî O
 :( O
-@berfdimsk S_PERSON
+@berfdimsk S-PERSON
 
-@gemre96 S_PERSON
+@gemre96 S-PERSON
 özele O
 gelsene O
 kanka O
@@ -3292,7 +3292,7 @@ birşeyler O
 izlettircem O
 :D O
 
-@SmtSbncgl S_PERSON
+@SmtSbncgl S-PERSON
 iyiyimm O
 , O
 seen? O
@@ -3302,7 +3302,7 @@ tamamlanmış O
 galiba O
 :D O
 
-@BusraaSa S_PERSON
+@BusraaSa S-PERSON
 saol O
 :) O
 
@@ -3346,10 +3346,10 @@ and O
 irreplaceable O
 :) O
 
-@BerksanVarol S_PERSON
+@BerksanVarol S-PERSON
 Sayın O
-berksan B_PERSON
-Varol E_PERSON
+berksan B-PERSON
+Varol E-PERSON
 (!) O
 Devrimm O
 Evinnnnnn O
@@ -3380,7 +3380,7 @@ ciğerini O
 bilirim O
 :D O
 
-@ilayda_ayan S_PERSON
+@ilayda_ayan S-PERSON
 Süs O
 olsun O
 diye O
@@ -3391,7 +3391,7 @@ okucaz O
 mal O
 :D O
 
-@semihtali S_PERSON
+@semihtali S-PERSON
 peki O
 öyle O
 olsun. O
@@ -3403,7 +3403,7 @@ ne O
 anlatcam O
 :D O
 
-@alperensevik S_PERSON
+@alperensevik S-PERSON
 cakır&polat O
 :) O
 
@@ -3419,13 +3419,13 @@ panik O
 yapmayın O
 :) O
 
-@alperensevik S_PERSON
-polat S_PERSON
+@alperensevik S-PERSON
+polat S-PERSON
 :) O
 
 RT O
-@EfsaneShahmurad: S_PERSON
-@Az_blogger S_PERSON
+@EfsaneShahmurad: S-PERSON
+@Az_blogger S-PERSON
 lazim O
 gelende O
 men O
@@ -3459,7 +3459,7 @@ gibi O
 olmayacaaaak O
 :) O
 
-@iremg16 S_PERSON
+@iremg16 S-PERSON
 off, O
 olmaması O
 gereken O
@@ -3468,7 +3468,7 @@ oldu O
 sanırııım O
 :( O
 
-@BeyinHunter S_PERSON
+@BeyinHunter S-PERSON
 hahahha O
 abi O
 sizin O
@@ -3502,8 +3502,8 @@ Artık O
 inanmıyorum O
 ... O
 
-@Azzmrtycl S_PERSON
-@onurcanbinici S_PERSON
+@Azzmrtycl S-PERSON
+@onurcanbinici S-PERSON
 Eski O
 günleri O
 anarız O
@@ -3513,8 +3513,8 @@ sende O
 kendini O
 :) O
 
-@MelisaTumbull S_PERSON
-@baverkarasac S_PERSON
+@MelisaTumbull S-PERSON
+@baverkarasac S-PERSON
 tabi O
 ki O
 yaptığı O
@@ -3525,8 +3525,8 @@ güzel O
 :) O
 
 RT O
-@EfsaneShahmurad: S_PERSON
-@Az_blogger S_PERSON
+@EfsaneShahmurad: S-PERSON
+@Az_blogger S-PERSON
 lazim O
 gelende O
 men O
@@ -3542,7 +3542,7 @@ yanagi O
 qirmiziyam-qirmiziyam O
 :D O
 
-@Basaksarkaya S_PERSON
+@Basaksarkaya S-PERSON
 evet O
 bebişim O
 bugünde O
@@ -3555,7 +3555,7 @@ uygulmaya O
 geç O
 ;) O
 
-@veyselerr S_PERSON
+@veyselerr S-PERSON
 what O
 the O
 hell O
@@ -3590,7 +3590,7 @@ gibi O
 olmayacaaaak O
 :) O
 
-@iremg16 S_PERSON
+@iremg16 S-PERSON
 off, O
 olmaması O
 gereken O
@@ -3599,13 +3599,13 @@ oldu O
 sanırııım O
 :( O
 
-@BeyinHunter S_PERSON
+@BeyinHunter S-PERSON
 hahahha O
 abi O
 sizin O
 okunda O
 ki O
-İrem S_PERSON
+İrem S-PERSON
 Işığı O
 tanıyormusun O
 :D O
@@ -3633,8 +3633,8 @@ Artık O
 inanmıyorum O
 ... O
 
-@Azzmrtycl S_PERSON
-@onurcanbinici S_PERSON
+@Azzmrtycl S-PERSON
+@onurcanbinici S-PERSON
 Eski O
 günleri O
 anarız O
@@ -3646,8 +3646,8 @@ kendini O
 
 Canlarım O
 Dostlarım O
-TYPE="DATE">Cuma E_None
-TYPE="DATE">Cumartesi E_None
+TYPE="DATE">Cuma E-None
+TYPE="DATE">Cumartesi E-None
 nerdesiniz O
 ? O
 Efendim O
@@ -3667,20 +3667,20 @@ rez: O
 05 O
 15 O
 
-@rahmibasaran S_PERSON
+@rahmibasaran S-PERSON
 Bence O
-trabzon<e_enamex> S_LOCATION
-fenere S_ORGANIZATION
+trabzon<e_enamex> S-LOCATION
+fenere S-ORGANIZATION
 rakip O
 olamaz. O
-beşiktaş<e_enamex> S_LOCATION
+beşiktaş<e_enamex> S-LOCATION
 veya O
-antalya<e_enamex> S_LOCATION
+antalya<e_enamex> S-LOCATION
 iyidir. O
 ki O
 ben O
 bugün O
-samsunsporuma S_ORGANIZATION
+samsunsporuma S-ORGANIZATION
 da O
 şans O
 tanıyorum O
@@ -3698,8 +3698,8 @@ kendimi O
 seviyorum O
 :D O
 
-@MelisaTumbull S_PERSON
-@baverkarasac S_PERSON
+@MelisaTumbull S-PERSON
+@baverkarasac S-PERSON
 tabi O
 ki O
 yaptığı O
@@ -3709,7 +3709,7 @@ güzel O
 !!!!!1 O
 :) O
 
-@Basaksarkaya S_PERSON
+@Basaksarkaya S-PERSON
 evet O
 bebişim O
 bugünde O
@@ -3722,7 +3722,7 @@ uygulmaya O
 geç O
 ;) O
 
-@veyselerr S_PERSON
+@veyselerr S-PERSON
 what O
 the O
 hell O
@@ -3757,8 +3757,8 @@ edemiyorum. O
 
 Canlarım O
 Dostlarım O
-TYPE="DATE">Cuma E_None
-TYPE="DATE">Cumartesi E_None
+TYPE="DATE">Cuma E-None
+TYPE="DATE">Cumartesi E-None
 nerdesiniz O
 ? O
 Efendim O
@@ -3770,28 +3770,28 @@ el'Alemdesiniz O
 Ailenizin O
 O O
 sesi O
-Özer B_PERSON
-BALKAN E_PERSON
+Özer B-PERSON
+BALKAN E-PERSON
 rez: O
 312 O
 428 O
 05 O
 15 O
 
-@rahmibasaran S_PERSON
+@rahmibasaran S-PERSON
 Bence O
-trabzon<e_enamex> S_LOCATION
-fenere S_ORGANIZATION
+trabzon<e_enamex> S-LOCATION
+fenere S-ORGANIZATION
 rakip O
 olamaz. O
-beşiktaş<e_enamex> S_LOCATION
+beşiktaş<e_enamex> S-LOCATION
 veya O
-antalya<e_enamex> S_LOCATION
+antalya<e_enamex> S-LOCATION
 iyidir. O
 ki O
 ben O
 bugün O
-samsunsporuma S_ORGANIZATION
+samsunsporuma S-ORGANIZATION
 da O
 şans O
 tanıyorum O
@@ -3862,12 +3862,12 @@ iyi O
 oynuyo O
 ;) O
 
-@neslihanunkan S_PERSON
+@neslihanunkan S-PERSON
 Çok O
 tatlıı O
 :) O
 
-@gulyabani S_PERSON
+@gulyabani S-PERSON
 kaveden O
 adam O
 lazim O
@@ -3886,7 +3886,7 @@ of O
 of O
 :( O
 
-@sudekongur S_PERSON
+@sudekongur S-PERSON
 8 O
 misin O
 sende O
@@ -3905,34 +3905,34 @@ Sporr O
 biterr O
 :) O
 
-@SudenurKaragozz S_PERSON
+@SudenurKaragozz S-PERSON
 biliyorum O
 :D O
 Sil O
 o O
 fotoğrafıı O
 
-@neslihanunkan S_PERSON
+@neslihanunkan S-PERSON
 Çok O
 tatlıı O
 :) O
 
-@gulyabani S_PERSON
+@gulyabani S-PERSON
 kaveden O
 adam O
 lazim O
 mi? O
 
-@gecemaviisiii S_PERSON
+@gecemaviisiii S-PERSON
 ve O
 suan O
-TYPE="TIME">20.21 E_None
+TYPE="TIME">20.21 E-None
 artik O
 seyinde O
 degilsin O
 :D O
 
-@ebasyigit S_PERSON
+@ebasyigit S-PERSON
 olmazsa O
 olmazım O
 :P O
@@ -3941,7 +3941,7 @@ köpeği O
 olsun O
 :D O
 
-@sudekongur S_PERSON
+@sudekongur S-PERSON
 8 O
 misin O
 sende O
@@ -3954,12 +3954,12 @@ kopya O
 cek O
 :D O
 
-@durumvahimm S_PERSON
+@durumvahimm S-PERSON
 yamalı O
 kalbim O
 :( O
 
-@MelekKaptan3 S_PERSON
+@MelekKaptan3 S-PERSON
 resmdeki O
 pembeli O
 kiim O
@@ -3969,7 +3969,7 @@ atamıorum O
 hala O
 :(((( O
 
-@intizamikelam S_PERSON
+@intizamikelam S-PERSON
 bilirim O
 o O
 duyguyu O
@@ -3982,23 +3982,23 @@ dönüyorsun O
 :) O
 teşekkürler O
 
-@SudenurKaragozz S_PERSON
+@SudenurKaragozz S-PERSON
 biliyorum O
 :D O
 Sil O
 o O
 fotoğrafıı O
 
-@gecemaviisiii S_PERSON
+@gecemaviisiii S-PERSON
 ve O
 suan O
-TYPE="TIME">20.21 E_None
+TYPE="TIME">20.21 E-None
 artik O
 seyinde O
 degilsin O
 :D O
 
-@ebasyigit S_PERSON
+@ebasyigit S-PERSON
 olmazsa O
 olmazım O
 :P O
@@ -4007,13 +4007,13 @@ köpeği O
 olsun O
 :D O
 
-@Alia_I_Am S_PERSON
+@Alia_I_Am S-PERSON
 Nolduu O
 bee O
 yaa O
 :D O
 
-@denizcankose S_PERSON
+@denizcankose S-PERSON
 ne O
 yap O
 ne O
@@ -4039,13 +4039,13 @@ zaten. O
 kib O
 görüşürüz. O
 
-@yiltaygunay S_PERSON
+@yiltaygunay S-PERSON
 taylan O
 gonderdi O
 :) O
 saygilar O
-@edwardante S_PERSON
-@udalan S_PERSON
+@edwardante S-PERSON
+@udalan S-PERSON
 
 belki O
 yanlış O
@@ -4063,16 +4063,16 @@ ilerde O
 elbettt O
 ;) O
 
-@Busrackr1D S_PERSON
+@Busrackr1D S-PERSON
 hahaha O
 sorma O
 :D O
 
-@nodogan S_PERSON
+@nodogan S-PERSON
 tamam O
 :) O
 
-@ireeeeeem S_PERSON
+@ireeeeeem S-PERSON
 hihihi O
 :) O
 bende O
@@ -4093,7 +4093,7 @@ da O
 sığsa O
 :D O
 
-@Pelin_Ermis S_PERSON
+@Pelin_Ermis S-PERSON
 Pelin O
 ablaa O
 ne O
@@ -4117,7 +4117,7 @@ anam O
 yerim O
 ben O
 onları,ama O
-fbook S_ORGANIZATION
+fbook S-ORGANIZATION
 profillerine O
 bir O
 giriyorum O
@@ -4126,7 +4126,7 @@ xd'ler O
 havada O
 ucusuyo. O
 
-@f_karul S_PERSON
+@f_karul S-PERSON
 tabi O
 yaa O
 :) O
@@ -4134,7 +4134,7 @@ reis O
 bu O
 hafta O
 toplanti O
-Kitchenette S_ORGANIZATION
+Kitchenette S-ORGANIZATION
 'daydi O
 da O
 benim O
@@ -4143,7 +4143,7 @@ haberim O
 yoktu O
 :) O
 
-@idilnarin S_PERSON
+@idilnarin S-PERSON
 :))) O
 hay O
 Allahım, O
@@ -4182,13 +4182,13 @@ koşuya O
 :) O
 
 Bu O
-Trabzonspor S_ORGANIZATION
+Trabzonspor S-ORGANIZATION
 adamı O
 sinir O
 hastası O
 ederr O
 
-@jumpingpatates S_PERSON
+@jumpingpatates S-PERSON
 çok O
 pahalı O
 2012'ler O
@@ -4196,8 +4196,8 @@ ya O
 :D O
 
 RT O
-@eminabdituzer: S_PERSON
-@camgezer_mvo S_PERSON
+@eminabdituzer: S-PERSON
+@camgezer_mvo S-PERSON
 allah O
 razı O
 olsun O
@@ -4210,20 +4210,20 @@ bir O
 şarkı O
 zannettim O
 
-Begüme S_PERSON
+Begüme S-PERSON
 .k'nin O
 aciklamasini O
 yapiyoorumm O
 :D O
 
-@murat_edin S_PERSON
+@murat_edin S-PERSON
 buna O
 çok O
 güldüm O
 :D O
 
 RT O
-@sekslisozluk: S_PERSON
+@sekslisozluk: S-PERSON
 Sen O
 tırnaklarına O
 saatlerce O
@@ -4265,7 +4265,7 @@ Beni O
 SEven O
 :D O
 
-@emrahkocer S_PERSON
+@emrahkocer S-PERSON
 Heh O
 böyle O
 diyceksin O
@@ -4289,7 +4289,7 @@ L&M O
 alıcan O
 :))) O
 
-@aleynaaerdogan S_PERSON
+@aleynaaerdogan S-PERSON
 evet O
 canim O
 malesef O
@@ -4302,13 +4302,13 @@ kolaylik O
 versin O
 :) O
 
-@FurkanSolak34 S_PERSON
+@FurkanSolak34 S-PERSON
 yani O
 senden O
 çalmadım O
 :D O
 
-@Bayancimen S_PERSON
+@Bayancimen S-PERSON
 iyi O
 böyle O
 devam O
@@ -4333,8 +4333,8 @@ kovalasin O
 :D O
 :D O
 
-@izafiboyut S_PERSON
-@papahett S_PERSON
+@izafiboyut S-PERSON
+@papahett S-PERSON
 kedinin O
 ismi O
 comolokko O
@@ -4345,7 +4345,7 @@ olsun O
 :) O
 
 RT O
-@AhmetEvcimen: S_PERSON
+@AhmetEvcimen: S-PERSON
 #10yildanedegisti O
 10 O
 sene O
@@ -4361,16 +4361,16 @@ zor O
 geçiniyor O
 ama O
 cebinde O
-İphone S_ORGANIZATION
-Blackberry S_ORGANIZATION
+İphone S-ORGANIZATION
+Blackberry S-ORGANIZATION
 var. O
 
-@songl_eker S_PERSON
+@songl_eker S-PERSON
 ben O
 özledimmm O
 :) O
 
-@gamzeatesermert S_PERSON
+@gamzeatesermert S-PERSON
 tamam O
 annesi O
 yuzumuz O
@@ -4380,7 +4380,7 @@ boya O
 oldu O
 :) O
 
-@Cobannez S_PERSON
+@Cobannez S-PERSON
 20 O
 yaşına O
 geldin O
@@ -4397,8 +4397,8 @@ ki O
 
 Hayat O
 bazennn O
-Çağatay B_PERSON
-Ulusooy E_PERSON
+Çağatay B-PERSON
+Ulusooy E-PERSON
 :) O
 <3 O
 
@@ -4413,7 +4413,7 @@ oynamaz O
 tabi O
 :) O
 
-@beyzyrtsvr S_PERSON
+@beyzyrtsvr S-PERSON
 ona O
 lafım O
 yok O
@@ -4436,19 +4436,19 @@ deme O
 deme O
 :D O
 
-@ozgmoran S_PERSON
+@ozgmoran S-PERSON
 ahaha O
 sakaci O
-ozge S_PERSON
+ozge S-PERSON
 :D O
 
-@mustafaarici77 S_PERSON
-@Cigdemdnz S_PERSON
-@dilving S_PERSON
-@nedimhancer1903 S_PERSON
+@mustafaarici77 S-PERSON
+@Cigdemdnz S-PERSON
+@dilving S-PERSON
+@nedimhancer1903 S-PERSON
 uzun O
 vadede O
-Besiktasin<e_enamex> S_LOCATION
+Besiktasin<e_enamex> S-LOCATION
 sampiyonluguna O
 oyna O
 abi O
@@ -4459,7 +4459,7 @@ mi O
 olur O
 :) O
 
-@dilarakilicc S_PERSON
+@dilarakilicc S-PERSON
 arkamda O
 yanan O
 ufoma O
@@ -4478,7 +4478,7 @@ değilim O
 SERSERİM O
 :( O
 
-@ilkerTmk S_PERSON
+@ilkerTmk S-PERSON
 nasil O
 pisliksin O
 belli O
@@ -4498,7 +4498,7 @@ oooff O
 karniim O
 :D O
 
-Didemlerle S_PERSON
+Didemlerle S-PERSON
 yok O
 yazıldık O
 biz O
@@ -4506,7 +4506,7 @@ bugün O
 hihi O
 :D O
 
-@twit_hnur S_PERSON
+@twit_hnur S-PERSON
 benden O
 zeki O
 olamaz O
@@ -4517,13 +4517,13 @@ vermem O
 ona O
 :) O
 
-hugh S_PERSON
+hugh S-PERSON
 think O
 I'm O
 garbled O
 :) O
 
-@B_Kartal1903 S_PERSON
+@B_Kartal1903 S-PERSON
 ya O
 yok O
 ne O
@@ -4542,17 +4542,17 @@ guven O
 bana O
 :D O
 
-@ceyhunyilmazz S_PERSON
-ahmet B_PERSON
-hamdi I_PERSON
-tanpınar E_PERSON
+@ceyhunyilmazz S-PERSON
+ahmet B-PERSON
+hamdi I-PERSON
+tanpınar E-PERSON
 'bir O
 adın O
 kalmalı O
 geriye' O
 :) O
 
-Berhan S_PERSON
+Berhan S-PERSON
 nesquik O
 getirmis O
 yarisalim O
@@ -4565,7 +4565,7 @@ ya O
 allam O
 :D O
 
-@MehmettOnurr S_PERSON
+@MehmettOnurr S-PERSON
 Ama O
 bu O
 yapılır O
@@ -4574,24 +4574,24 @@ bana O
 :) O
 
 RT O
-@eozturkkk: S_PERSON
+@eozturkkk: S-PERSON
 Ask.fm O
 maceram O
 buraya O
 kadarmis...... O
-Alper S_PERSON
+Alper S-PERSON
 ve O
-Tarik S_PERSON
+Tarik S-PERSON
 olunca O
 oyle O
 oldu O
 :D O
 
-@AyseKatilmis S_PERSON
+@AyseKatilmis S-PERSON
 evettt O
 :D O
 
-@ozgeolcayturk S_PERSON
+@ozgeolcayturk S-PERSON
 amiin O
 aminn O
 :D O
@@ -4611,14 +4611,14 @@ olmadığı O
 kader O
 :) O
 
-@MehmetSGulsen S_PERSON
-@sinanerkek1 S_PERSON
-@gokkaplan S_PERSON
+@MehmetSGulsen S-PERSON
+@sinanerkek1 S-PERSON
+@gokkaplan S-PERSON
 Adanalı O
 olan O
 birine O
 sorunuz.Malum O
-ADANA S_LOCATION
+ADANA S-LOCATION
 yemeğidir O
 içli O
 köfte.tv O
@@ -4627,8 +4627,8 @@ bile O
 konu O
 olmştu O
 
-andreas B_PERSON
-mautner E_PERSON
+andreas B-PERSON
+mautner E-PERSON
 think O
 I'm O
 gigantic O
@@ -4636,7 +4636,7 @@ and O
 portentous O
 :) O
 
-@gozdesahin_ S_PERSON
+@gozdesahin_ S-PERSON
 ama O
 2 O
 hafta O
@@ -4666,12 +4666,12 @@ ne O
 yoğunluktur. O
 :) O
 
-@cxue_ S_PERSON
-@uskudar_RT S_PERSON
-@gayeserbetciler S_PERSON
-@12_kabus S_PERSON
-@adallyzeyzey S_PERSON
-@beryavuz S_PERSON
+@cxue_ S-PERSON
+@uskudar_RT S-PERSON
+@gayeserbetciler S-PERSON
+@12_kabus S-PERSON
+@adallyzeyzey S-PERSON
+@beryavuz S-PERSON
 iyi O
 akşamlar O
 benden O
@@ -4695,13 +4695,13 @@ kutluyrz O
 glbaa. O
 :) O
 
-Feriha S_PERSON
+Feriha S-PERSON
 : O
 R O
 kim O
 ? O
 
-Emir S_PERSON
+Emir S-PERSON
 : O
 Boşver O
 onu O
@@ -4715,7 +4715,7 @@ o O
 - O
 Bir O
 gün O
-Bakırköy S_LOCATION
+Bakırköy S-LOCATION
 ki O
 heykelin O
 karşısına O
@@ -4731,14 +4731,14 @@ gibi O
 değil. O
 ;) O
 
-@ahmethc S_PERSON
-istanbulu S_LOCATION
+@ahmethc S-PERSON
+istanbulu S-LOCATION
 özletmeyecek O
 kadar O
 güzeldir O
 :) O
 
-@Kucuk_Sezarrr S_PERSON
+@Kucuk_Sezarrr S-PERSON
 dinle O
 bir O
 an O
@@ -4751,13 +4751,13 @@ olan O
 favorim O
 :) O
 
-@ebru_kntrclr S_PERSON
+@ebru_kntrclr S-PERSON
 ne O
 diyim O
 lan O
 :D O
 
-@AlperennAY S_PERSON
+@AlperennAY S-PERSON
 dur O
 onlari O
 biz O
@@ -4765,7 +4765,7 @@ eleyecez O
 :) O
 
 yinemı O
-TYPE="TIME">20:20 E_None
+TYPE="TIME">20:20 E-None
 hepmi O
 düşünuyor O
 acaba O
@@ -4780,11 +4780,11 @@ oldu O
 hoş!! O
 :D O
 
-@suihomesui S_PERSON
-@benolric S_PERSON
-carkifelekteki S_ORGANIZATION
-petek B_PERSON
-dincozu E_PERSON
+@suihomesui S-PERSON
+@benolric S-PERSON
+carkifelekteki S-ORGANIZATION
+petek B-PERSON
+dincozu E-PERSON
 gordum O
 bu O
 bi O
@@ -4797,12 +4797,12 @@ sebep O
 oldu O
 ;) O
 
-@hilalcebeciii S_PERSON
+@hilalcebeciii S-PERSON
 Seviliyosun O
 ablaam O
 :) O
 
-@gmsyzci S_PERSON
+@gmsyzci S-PERSON
 bulantı O
 hapı O
 alaydın O
@@ -4810,7 +4810,7 @@ alaydın O
 ii O
 gelir O
 
-@aysesoydan S_PERSON
+@aysesoydan S-PERSON
 haha O
 kanka O
 cok O
@@ -4818,7 +4818,7 @@ icerlemissin O
 be O
 :D O
 
-@RedLiveOktay S_PERSON
+@RedLiveOktay S-PERSON
 Farketmez O
 adam O
 olsada O
@@ -4835,8 +4835,8 @@ kötü O
 oynariz O
 
 RT O
-@hakikipapa: S_PERSON
-elif S_PERSON
+@hakikipapa: S-PERSON
+elif S-PERSON
 be O
 te O
 s O
@@ -4846,7 +4846,7 @@ ok O
 kib O
 bye O
 
-@burcuuu14 S_PERSON
+@burcuuu14 S-PERSON
 Haklıyım O
 ayrıca O
 evet O
@@ -4874,7 +4874,7 @@ Es O
 geçme O
 yaşa. O
 
-@cecenfiko S_PERSON
+@cecenfiko S-PERSON
 Amin O
 efendim O
 :( O
@@ -4885,18 +4885,18 @@ versin O
 inşaALLAH O
 .. O
 
-@hazalyetim S_PERSON
+@hazalyetim S-PERSON
 rahat O
 rahat O
 dedikodu O
 yapalmmmm O
 :) O
 
-@ozlemmkutukk S_PERSON
+@ozlemmkutukk S-PERSON
 peki O
 :) O
 
-@EmreUtkucan S_PERSON
+@EmreUtkucan S-PERSON
 doğru O
 olması O
 kesin O
@@ -4916,11 +4916,11 @@ umut O
 işte O
 :( O
 
-@Hande_Kazanova S_PERSON
+@Hande_Kazanova S-PERSON
 nasılsın O
 :) O
 
-@ixtanbul1907 S_PERSON
+@ixtanbul1907 S-PERSON
 iyiym O
 şekerim O
 sen O
@@ -4935,12 +4935,12 @@ valla O
 ıyıdır O
 :D O
 
-@HalilCabuuk S_PERSON
+@HalilCabuuk S-PERSON
 peki O
 orti O
 :) O
 
-@AvrilBrasil S_PERSON
+@AvrilBrasil S-PERSON
 I'm O
 gonna O
 follow O
@@ -4951,7 +4951,7 @@ geldiiiiiiim O
 :) O
 
 Olley O
-egeler S_PERSON
+egeler S-PERSON
 bizdeymis O
 kapiyi O
 bana O
@@ -4960,13 +4960,13 @@ acti O
 yeriiim O
 :) O
 
-@BihterChocolate S_PERSON
+@BihterChocolate S-PERSON
 vay O
 anasını O
 büyüksünüz! O
 :D O
 
-@Busrackr1D S_PERSON
+@Busrackr1D S-PERSON
 yazmıs O
 ya O
 bu O
@@ -4989,7 +4989,7 @@ da O
 yaşayabilirm O
 :) O
 
-@1ncii S_PERSON
+@1ncii S-PERSON
 eheheheh O
 ben O
 buldum O
@@ -5008,16 +5008,16 @@ gelır O
 mesela O
 :) O
 
-@handeydn S_PERSON
+@handeydn S-PERSON
 bekkleee O
 :) O
 
-ebru S_PERSON
+ebru S-PERSON
 süper O
 kızdırr O
 :) O
 
-@HAYBOCPQN S_PERSON
+@HAYBOCPQN S-PERSON
 44Gün O
 var O
 derken O
@@ -5046,7 +5046,7 @@ oldu O
 sonunda O
 :) O
 
-@DogaSagr S_PERSON
+@DogaSagr S-PERSON
 Anlıyorum O
 bizi O
 twit O
@@ -5054,8 +5054,8 @@ yağmuruna O
 tutmandan O
 :) O
 
-Egeyle S_PERSON
-Berk S_PERSON
+Egeyle S-PERSON
+Berk S-PERSON
 RDS O
 ye O
 kalmadı O
@@ -5071,13 +5071,13 @@ iydi O
 kopardık O
 ya. O
 
-@GulbinKavak S_PERSON
+@GulbinKavak S-PERSON
 xûyayi O
 tû O
 çibû O
 Newroz'ê O
 :) O
-@berfdimsk S_PERSON
+@berfdimsk S-PERSON
 
 Türkün O
 Uzayla O
@@ -5089,14 +5089,14 @@ diziye O
 benziyor O
 :) O
 
-@yavuzbuse S_PERSON
+@yavuzbuse S-PERSON
 SendeN O
 ne O
 habeR O
 :) O
 
-@aleynadede S_PERSON
-@Silkwormm S_PERSON
+@aleynadede S-PERSON
+@Silkwormm S-PERSON
 anılla O
 evlenicekmişte O
 adadan O
@@ -5106,29 +5106,29 @@ kuruyoruz O
 :D O
 
 RT O
-@mustafaceceli: S_PERSON
-Murad B_PERSON
-Küçük E_PERSON
+@mustafaceceli: S-PERSON
+Murad B-PERSON
+Küçük E-PERSON
 son O
 sürat O
 devam O
-@muradkck S_PERSON
+@muradkck S-PERSON
 :) O
 
-@AysenurKeskin S_PERSON
+@AysenurKeskin S-PERSON
 iyi O
 bende O
 sıkıldım O
 :D O
 
-@diqudiw S_PERSON
+@diqudiw S-PERSON
 kopuyomuyuzzz O
 300 O
 - O
 500 O
 :D O
 
-@ovyeaaah S_PERSON
+@ovyeaaah S-PERSON
 kusura O
 bakma O
 ya O
@@ -5141,12 +5141,12 @@ daha O
 olmuştu O
 :D O
 
-@RasitGurler S_PERSON
+@RasitGurler S-PERSON
 adam O
 kim O
 ? O
 
-@zimsays S_PERSON
+@zimsays S-PERSON
 haha O
 oku O
 çok O
@@ -5165,11 +5165,11 @@ olan O
 arkideşler O
 yok O
 :D O
-cindrella S_PERSON
+cindrella S-PERSON
 baz O
 alınmış O
 
-@Ceyuu S_PERSON
+@Ceyuu S-PERSON
 evet O
 dikkat O
 ederek O
@@ -5193,7 +5193,7 @@ club O
 oluyomuşuz O
 :D O
 
-@HatsTuran S_PERSON
+@HatsTuran S-PERSON
 ya O
 onu O
 bunu O
@@ -5204,8 +5204,8 @@ ne O
 haber? O
 :) O
 
-@GmBusra S_PERSON
-@samet_inan55 S_PERSON
+@GmBusra S-PERSON
+@samet_inan55 S-PERSON
 banada O
 dınlettı O
 ya O
@@ -5215,8 +5215,8 @@ msn O
 :D O
 
 RT O
-@WePRAISE1D: S_PERSON
-@1D_HungerGames S_PERSON
+@WePRAISE1D: S-PERSON
+@1D_HungerGames S-PERSON
 5. O
 Spanish, O
 German, O
@@ -5227,7 +5227,7 @@ French O
 :) O
 
 RT O
-@dogancanozbey: S_PERSON
+@dogancanozbey: S-PERSON
 Bugun O
 dogan O
 hocadan O
@@ -5244,8 +5244,8 @@ komik O
 gencler O
 
 RT O
-@RabiaGrsoy_: S_PERSON
-@OmeerFarukBas S_PERSON
+@RabiaGrsoy_: S-PERSON
+@OmeerFarukBas S-PERSON
 arabaya O
 benzin O
 atmayı O
@@ -5264,26 +5264,26 @@ da O
 2 O
 :D O
 
-@NeslihanCNR S_PERSON
+@NeslihanCNR S-PERSON
 haklısınn O
 sonuna O
 kadar O
 diyoreee O
 :) O
 
-@berkeakyel S_PERSON
+@berkeakyel S-PERSON
 yok O
 kardes O
 buralardayım O
 :D O
 
-@BahadrAvci S_PERSON
+@BahadrAvci S-PERSON
 sanada O
 möck O
 :D O
 
 #YavsakLigTVsahtekarHasanSas O
-Fb S_ORGANIZATION
+Fb S-ORGANIZATION
 psikoloji O
 bozuldu O
 yalan O
@@ -5304,7 +5304,7 @@ gitti O
 be O
 :) O
 
-@SelambenMerve S_PERSON
+@SelambenMerve S-PERSON
 bak O
 tırnaklarıma O
 peeta O
@@ -5328,7 +5328,7 @@ denen O
 seveceksin O
 :)) O
 
-@Nazli_Baltaci S_PERSON
+@Nazli_Baltaci S-PERSON
 atardım O
 ya O
 bu O
@@ -5338,7 +5338,7 @@ açıkmıydın O
 ya O
 :D O
 
-@behicezulaal S_PERSON
+@behicezulaal S-PERSON
 mal O
 behice O
 sınavda O
@@ -5375,7 +5375,7 @@ istiyor O
 canına O
 yanayım.. O
 
-@ssevilsen S_PERSON
+@ssevilsen S-PERSON
 aynen O
 ama O
 biletler O
@@ -5402,10 +5402,10 @@ name="MONEY" O
 value="end"/> O
 :D O
 
-@anka_kusu1 S_PERSON
+@anka_kusu1 S-PERSON
 :) O
 
-@NazAkcil S_PERSON
+@NazAkcil S-PERSON
 bencede O
 :P O
 :) O
@@ -5419,7 +5419,7 @@ ne O
 kadar O
 zekiyimm O
 
-@Turkuazkalem S_PERSON
+@Turkuazkalem S-PERSON
 ''Seni O
 sevmek O
 ibadetim, O
@@ -5440,7 +5440,7 @@ gebruik O
 tevaak O
 :p O
 
-@dincerguner S_PERSON
+@dincerguner S-PERSON
 dunya O
 astroloji O
 gunun O
@@ -5458,15 +5458,15 @@ indirdim.mis O
 misss O
 :) O
 
-@DidemGr_Zayn S_PERSON
+@DidemGr_Zayn S-PERSON
 :D O
 derim O
 :D O
 bu O
 arada O
-Zayn S_PERSON
+Zayn S-PERSON
 neden O
-UK S_LOCATION
+UK S-LOCATION
 da? O
 
 Kızların O
@@ -5478,7 +5478,7 @@ takmış O
 anlayana! O
 :) O
 
-@cansukartaall S_PERSON
+@cansukartaall S-PERSON
 şah O
 şah O
 şah O
@@ -5490,14 +5490,14 @@ ar O
 ar O
 şahdamar O
 şahdamar O
-ajdar S_PERSON
-ajdar S_PERSON
-ajdaaaarrr S_PERSON
+ajdar S-PERSON
+ajdar S-PERSON
+ajdaaaarrr S-PERSON
 :D O
 
-@esracrdk S_PERSON
-@gonuldostufusun S_PERSON
-@emreaydin S_PERSON
+@esracrdk S-PERSON
+@gonuldostufusun S-PERSON
+@emreaydin S-PERSON
 yok O
 Esra, O
 bende O
@@ -5516,14 +5516,14 @@ starting O
 :) O
 yeesss O
 
-@buberomer S_PERSON
+@buberomer S-PERSON
 yapma O
 kanka O
 yemesin O
 pezevenk O
 :D O
 
-@prettygirl4545 S_PERSON
+@prettygirl4545 S-PERSON
 started O
 the O
 my O
@@ -5545,12 +5545,12 @@ lan O
 sınıfta O
 :D O
 
-@EmreAdilovic S_PERSON
+@EmreAdilovic S-PERSON
 gelmek O
 lazım O
 :D O
 
-@EfeAtamer S_PERSON
+@EfeAtamer S-PERSON
 Sen O
 asla O
 tas O
@@ -5558,7 +5558,7 @@ kalpli O
 olamazsin O
 :) O
 
-@ipekizilors S_PERSON
+@ipekizilors S-PERSON
 işteee O
 yeteneeekkk O
 :D O
@@ -5566,7 +5566,7 @@ yeteneeekkk O
 tavşan O
 keselim O
 :D O
-@rloveutione S_PERSON
+@rloveutione S-PERSON
 
 Bugün O
 fıkrasına O
@@ -5586,7 +5586,7 @@ bak, O
 noldu O
 şimdi? O
 
-@abdlarac S_PERSON
+@abdlarac S-PERSON
 benim O
 bi O
 inanışım O
@@ -5594,7 +5594,7 @@ yok O
 ki O
 :) O
 
-@gokceciraci S_PERSON
+@gokceciraci S-PERSON
 haha O
 sonundaa O
 :) O
@@ -5624,12 +5624,12 @@ hali O
 görmem O
 çok O
 kötü O
-olcan S_PERSON
+olcan S-PERSON
 resmen O
 bitti O
 :( O
 
-@aysegulyvz S_PERSON
+@aysegulyvz S-PERSON
 ayrıca O
 da O
 evet O
@@ -5644,7 +5644,7 @@ onlineım O
 yani O
 :D O
 
-@Gorkie_ S_PERSON
+@Gorkie_ S-PERSON
 unuttuğun O
 yüzüne O
 vurur,sonra O
@@ -5663,7 +5663,7 @@ dök O
 hep O
 :) O
 
-@NihanOzdil S_PERSON
+@NihanOzdil S-PERSON
 Kankaa O
 merak O
 ettm. O
@@ -5673,26 +5673,26 @@ gel O
 :D O
 :)) O
 
-@DilanYuceboy S_PERSON
+@DilanYuceboy S-PERSON
 gülmeeeeeeee O
 :( O
 
-@sameeettt S_PERSON
+@sameeettt S-PERSON
 trabzona O
 napiyorlar O
 :D O
 
-@buketolcgn S_PERSON
+@buketolcgn S-PERSON
 RT O
 : O
 Kavgadan O
 sonra O
-mevlute S_PERSON
+mevlute S-PERSON
 gittik O
-@esrayiildiiz S_PERSON
+@esrayiildiiz S-PERSON
 :( O
 
-@selin1celebi S_PERSON
+@selin1celebi S-PERSON
 karsindaki O
 kisiye O
 bagli O
@@ -5702,7 +5702,7 @@ olup O
 olmayacagi O
 :D O
 
-@GeErgen S_PERSON
+@GeErgen S-PERSON
 mrb O
 benden O
 sana O
@@ -5722,7 +5722,7 @@ güzel O
 bence O
 05413488534 O
 
-@ugur_ozmen35 S_PERSON
+@ugur_ozmen35 S-PERSON
 ayıpsınnn O
 :) O
 gıdemıyorum O
@@ -5735,7 +5735,7 @@ Rüzgara O
 karışmış O
 :) O
 
-@SIMETRIX_X S_PERSON
+@SIMETRIX_X S-PERSON
 vayyy O
 bayağı O
 zekisin O
@@ -5745,7 +5745,7 @@ zaman O
 kaçıncı O
 sınıf O
 :):) O
-İzmir S_LOCATION
+İzmir S-LOCATION
 kimse O
 bırakmaz O
 ki O
@@ -5766,7 +5766,7 @@ zor O
 tutuyorum O
 kendimi. O
 
-@_mss_tomlinson_ S_PERSON
+@_mss_tomlinson_ S-PERSON
 Aaaaa O
 beeen O
 :))) O
@@ -5780,8 +5780,8 @@ hee O
 bide O
 ben O
 bugün O
-Galata B_LOCATION
-Köprüsünde E_LOCATION
+Galata B-LOCATION
+Köprüsünde E-LOCATION
 balık O
 ekmek O
 yedim O
@@ -5795,7 +5795,7 @@ kim O
 biliyosunuz O
 :D O
 
-@isim_dsunuyorum S_PERSON
+@isim_dsunuyorum S-PERSON
 aynı O
 dert O
 :( O
@@ -5809,22 +5809,22 @@ müziik O
 var O
 :p O
 
-@aygulhoran S_PERSON
-@Hazza_Curly S_PERSON
+@aygulhoran S-PERSON
+@Hazza_Curly S-PERSON
 tmm O
 :) O
 
-@mtglsn S_PERSON
+@mtglsn S-PERSON
 yarın O
 sana O
 bişey O
 göstericem O
-Fenerbahçe S_ORGANIZATION
+Fenerbahçe S-ORGANIZATION
 ile O
 ilgili O
 :D O
 
-@TonnyMontaaana S_PERSON
+@TonnyMontaaana S-PERSON
 Ben O
 hazirim O
 we O
@@ -5835,14 +5835,14 @@ forwet O
 olarak O
 :) O
 
-Carvalhal S_PERSON
+Carvalhal S-PERSON
 Türkçe'si O
 çok O
 güzel O
 yaaa O
 :D O
 
-@ipeeenk S_PERSON
+@ipeeenk S-PERSON
 bende O
 gelmek O
 istiyorum O
@@ -5865,21 +5865,21 @@ için O
 tarikatının O
 oyunudur. O
 
-mustafa B_PERSON
-ceceli E_PERSON
+mustafa B-PERSON
+ceceli E-PERSON
 'klip O
 hali'nden O
 bıkmayı O
 hayal O
 etmiyorummm O
 
-@omrfrkbkr S_PERSON
+@omrfrkbkr S-PERSON
 hadi O
 balığa O
 gidelim O
 :D O
 
-@iremCetinel S_PERSON
+@iremCetinel S-PERSON
 bana O
 oyle O
 sozler O
@@ -5888,7 +5888,7 @@ sen O
 zateen O
 :D O
 
-shirl S_PERSON
+shirl S-PERSON
 think O
 I'm O
 handsome O
@@ -5932,17 +5932,17 @@ sevinirsin O
 .. O
 Ask O
 
-@Cokmegoloman S_PERSON
+@Cokmegoloman S-PERSON
 gözüm O
 şarkılarında O
 :) O
 
-@ozgunkelesoglu S_PERSON
+@ozgunkelesoglu S-PERSON
 tamamdir O
 muhtar O
 :) O
 
-@SenaaHoran S_PERSON
+@SenaaHoran S-PERSON
 iyi O
 işte O
 :P O
@@ -5958,7 +5958,7 @@ knşlm O
 :) O
 
 RT O
-@Dibuju10: S_PERSON
+@Dibuju10: S-PERSON
 Belki O
 de O
 adam O
@@ -5982,7 +5982,7 @@ biyoloji O
 calisicam O
 :) O
 
-@sedefnazS S_PERSON
+@sedefnazS S-PERSON
 ben O
 bakınca O
 hepsi O
@@ -5997,8 +5997,8 @@ uzun O
 zamandır O
 denk O
 gelmediğim O
-Candan B_PERSON
-Erçetin E_PERSON
+Candan B-PERSON
+Erçetin E-PERSON
 Vallahi O
 şarkısına O
 denk O
@@ -6009,7 +6009,7 @@ yine. O
 Ayrılık O
 zor. O
 
-lucius S_PERSON
+lucius S-PERSON
 think O
 I'm O
 brevity O
@@ -6017,7 +6017,7 @@ and O
 condensation O
 :) O
 
-@senolgaya S_PERSON
+@senolgaya S-PERSON
 cevap O
 için O
 bi O
@@ -6037,8 +6037,8 @@ beklemekten O
 
 ne O
 demiş O
-orhan B_PERSON
-abimizzz E_PERSON
+orhan B-PERSON
+abimizzz E-PERSON
 "bırakın O
 da O
 yaşayalım" O
@@ -6048,12 +6048,12 @@ sultan O
 filmi O
 :) O
 
-@sevallergun S_PERSON
+@sevallergun S-PERSON
 Vandaydıkşın O
 <3 O
 :D O
 
-Göknurlarin S_PERSON
+Göknurlarin S-PERSON
 dersanesinde O
 çok O
 eğlendim O
@@ -6072,9 +6072,9 @@ bir O
 bora O
 tweeti O
 :D O
-@Portkatal S_PERSON
+@Portkatal S-PERSON
 
-@CihanKokelNYU S_PERSON
+@CihanKokelNYU S-PERSON
 lefkosadaydım O
 cumaya O
 :) O
@@ -6093,31 +6093,31 @@ geçinen O
 arkadaslar O
 armalarini O
 bilmiyor. O
-Gs S_ORGANIZATION
+Gs S-ORGANIZATION
 Standartlari.. O
 
-@mertilerii S_PERSON
-mert S_PERSON
-mozart S_PERSON
+@mertilerii S-PERSON
+mert S-PERSON
+mozart S-PERSON
 tan O
-lady B_PERSON
-gaga E_PERSON
+lady B-PERSON
+gaga E-PERSON
 yı O
 nasıl O
 çıkardın? O
 :D O
 
-@1D1DTurkey1D1D S_PERSON
+@1D1DTurkey1D1D S-PERSON
 gel O
 , O
 gel O
 :D O
-İzmir S_LOCATION
+İzmir S-LOCATION
 çok O
 güzel O
 :)) O
 
-@weycellllllllll S_PERSON
+@weycellllllllll S-PERSON
 afiyet O
 olsun O
 sana O
@@ -6126,15 +6126,15 @@ içinde O
 iç O
 :) O
 
-Sevda B_PERSON
-Demirel E_PERSON
-Hande B_PERSON
-Ataizi E_PERSON
+Sevda B-PERSON
+Demirel E-PERSON
+Hande B-PERSON
+Ataizi E-PERSON
 attığı O
 tokattan O
 sonra, O
-Ajdar S_PERSON
-Alihan S_PERSON
+Ajdar S-PERSON
+Alihan S-PERSON
 yediği O
 tokat O
 gelir. O
@@ -6158,17 +6158,17 @@ geçinen O
 arkadaslar O
 armalarini O
 bilmiyor. O
-Gs S_ORGANIZATION
+Gs S-ORGANIZATION
 Standartlari.. O
 
 ah O
-irem S_PERSON
+irem S-PERSON
 ahh O
 :D O
 
-@derinsular S_PERSON
-Serdar B_PERSON
-abi E_PERSON
+@derinsular S-PERSON
+Serdar B-PERSON
+abi E-PERSON
 bu O
 formunu O
 neye O
@@ -6179,7 +6179,7 @@ istiyorum O
 abi O
 :) O
 
-@alperenayvali S_PERSON
+@alperenayvali S-PERSON
 Daha O
 1 O
 kere O
@@ -6196,7 +6196,7 @@ güzel O
 bir O
 görüntü. O
 
-Gamze S_PERSON
+Gamze S-PERSON
 sayesinde O
 dilara O
 psikolijimi O
@@ -6205,19 +6205,19 @@ uzere O
 :D O
 
 RT O
-@GozdeUzuun: S_PERSON
-@cansukartaall S_PERSON
+@GozdeUzuun: S-PERSON
+@cansukartaall S-PERSON
 bende O
 seni O
 karşiim O
 :(( O
 
-@CcLmmm S_PERSON
+@CcLmmm S-PERSON
 şıp O
 sevdi O
 :D O
 
-@kkaraagac S_PERSON
+@kkaraagac S-PERSON
 beni O
 sattı O
 diye O
@@ -6226,8 +6226,8 @@ derler O
 güzelimm O
 :D O
 
-@EdanurByrm S_PERSON
-@2bee2bee S_PERSON
+@EdanurByrm S-PERSON
+@2bee2bee S-PERSON
 emiin O
 ol O
 zateeeen O
@@ -6242,7 +6242,7 @@ telefon O
 konuşmasını O
 dinliyorum. O
 bi O
-libya S_LOCATION
+libya S-LOCATION
 devlet O
 başkanı'nın O
 dedikodusunu O
@@ -6258,7 +6258,7 @@ güzel O
 :) O
 
 çözmezsem O
-hikmet S_PERSON
+hikmet S-PERSON
 hoca O
 başımı O
 yer O
@@ -6280,7 +6280,7 @@ en O
 iyisii O
 :) O
 
-@eezz_ggii S_PERSON
+@eezz_ggii S-PERSON
 o O
 beni O
 baglar O
@@ -6312,16 +6312,16 @@ cicisiyle O
 konussun O
 :D O
 
-@atbl1176 S_PERSON
+@atbl1176 S-PERSON
 :) O
 
-@baverkarasac S_PERSON
+@baverkarasac S-PERSON
 bende O
 seni O
 kardiiş O
 :D O
 
-@zaynsterbuddy S_PERSON
+@zaynsterbuddy S-PERSON
 iidr O
 sndn O
 nbrr O
@@ -6340,20 +6340,20 @@ bu O
 seviyorumm O
 :D O
 
-Mine S_PERSON
-Gizem S_PERSON
-Gamze S_PERSON
-Eyşan S_PERSON
-İrem S_PERSON
-Sanem S_PERSON
-Ekin S_PERSON
+Mine S-PERSON
+Gizem S-PERSON
+Gamze S-PERSON
+Eyşan S-PERSON
+İrem S-PERSON
+Sanem S-PERSON
+Ekin S-PERSON
 ve O
-Özlem S_PERSON
+Özlem S-PERSON
 isimleri O
 gerçekten O
 çok O
 gıcık. O
-Melisi S_PERSON
+Melisi S-PERSON
 sevme O
 nedenim O
 bu O
@@ -6361,7 +6361,7 @@ olmuştu O
 sanırım O
 :D O
 
-@AliOzgul10 S_PERSON
+@AliOzgul10 S-PERSON
 1-0 O
 Alibeyköy O
 :) O
@@ -6375,7 +6375,7 @@ doymadığım O
 var O
 :) O
 
-@ichbinmurat S_PERSON
+@ichbinmurat S-PERSON
 besiktasi O
 adam O
 yerine O
@@ -6394,7 +6394,7 @@ ozlem O
 dustuuuu O
 :D O
 
-@afdykal14 S_PERSON
+@afdykal14 S-PERSON
 sagol O
 gercekten O
 öldüm O
@@ -6419,7 +6419,7 @@ aynı O
 değişmiyor O
 MK!! O
 
-@mervebilenn S_PERSON
+@mervebilenn S-PERSON
 Hayırlısı O
 ya O
 :D O
@@ -6434,13 +6434,13 @@ satmadık O
 ya O
 . O
 
-@gocerb S_PERSON
-@semraugz S_PERSON
-@damlaa_z S_PERSON
-@merveeparlak S_PERSON
-@Rey_zek S_PERSON
-@SkryNst S_PERSON
-@Selimcixx S_PERSON
+@gocerb S-PERSON
+@semraugz S-PERSON
+@damlaa_z S-PERSON
+@merveeparlak S-PERSON
+@Rey_zek S-PERSON
+@SkryNst S-PERSON
+@Selimcixx S-PERSON
 HÜZÜN O
 :( O
 
@@ -6449,7 +6449,7 @@ bugün O
 güzeldi O
 :D O
 
-@byatakan_lol S_PERSON
+@byatakan_lol S-PERSON
 yalnız O
 bacakta O
 olabilirler O
@@ -6458,7 +6458,7 @@ dikkat O
 ettim O
 :D O
 
-@azatmeric S_PERSON
+@azatmeric S-PERSON
 neyse O
 sen O
 gel O
@@ -6471,13 +6471,13 @@ ps O
 oynarık O
 :D O
 
-@sibeltakipte S_PERSON
+@sibeltakipte S-PERSON
 tamamen O
 bana O
 ait O
 :) O
 
-@NelinAsik S_PERSON
+@NelinAsik S-PERSON
 bence O
 deee O
 :D O
@@ -6491,7 +6491,7 @@ acısıyla O
 yasıyoruuumm O
 :( O
 
-@tulinarikoglu S_PERSON
+@tulinarikoglu S-PERSON
 kesin O
 açlıktan O
 ölücez O
@@ -6505,7 +6505,7 @@ Birisi O
 dokundu.. O
 :( O
 
-@EvdekiDeli S_PERSON
+@EvdekiDeli S-PERSON
 ahah O
 ne O
 dedi? O
@@ -6515,10 +6515,10 @@ Seni O
 deşifre O
 ederim O
 :D O
-@cokefendicocuk S_PERSON
-@melistzn S_PERSON
+@cokefendicocuk S-PERSON
+@melistzn S-PERSON
 
-@SefoKafKef S_PERSON
+@SefoKafKef S-PERSON
 beni O
 herkes O
 terk O
@@ -6528,18 +6528,18 @@ her O
 koşulda O
 :( O
 
-@CamiLaaguustina S_PERSON
+@CamiLaaguustina S-PERSON
 Helloooo! O
 :D O
 follow O
 back?x O
 
-@thierrysaky S_PERSON
+@thierrysaky S-PERSON
 bir O
 dost O
 :) O
 
-@zeynepsancarr S_PERSON
+@zeynepsancarr S-PERSON
 sımdı O
 zep O
 cok O
@@ -6560,12 +6560,12 @@ senı O
 parcalar O
 :D O
 
-@cansuegee S_PERSON
+@cansuegee S-PERSON
 süprizler O
 .... O
 :) O
 
-@MerveCakir_ S_PERSON
+@MerveCakir_ S-PERSON
 Şu O
 an O
 burdayım.umuyorum O
@@ -6574,18 +6574,18 @@ snde O
 burdasın O
 :D O
 
-@SelambenMerve S_PERSON
+@SelambenMerve S-PERSON
 eveet O
 :) O
 
-@ortegablog S_PERSON
+@ortegablog S-PERSON
 haftasonu O
 izmirdeyim O
 selam O
 söylerim O
 :) O
 
-@Nurlinka S_PERSON
+@Nurlinka S-PERSON
 Hoşgeldin, O
 tekrar O
 seni O
@@ -6596,7 +6596,7 @@ güzel O
 dostum O
 :) O
 
-@BNS666 S_PERSON
+@BNS666 S-PERSON
 noldu O
 sararıp O
 soldun O
@@ -6613,14 +6613,14 @@ biraz O
 fazla O
 anlamlı. O
 
-@mervepinary S_PERSON
+@mervepinary S-PERSON
 bazı O
 esprileri O
 bilmiyorsun O
 ya O
 :D O
 
-@zeynepbastug S_PERSON
+@zeynepbastug S-PERSON
 bende O
 balıklarımı O
 :( O
@@ -6637,9 +6637,9 @@ biri O
 zannettim O
 :) O
 
-@Fakespearing S_PERSON
-@CandanAkdr S_PERSON
-@cihanzay S_PERSON
+@Fakespearing S-PERSON
+@CandanAkdr S-PERSON
+@cihanzay S-PERSON
 Böbrek O
 yiyip O
 göz O
@@ -6651,7 +6651,7 @@ deiliz O
 herhalde O
 :D O
 
-@Abali_Eren S_PERSON
+@Abali_Eren S-PERSON
 o O
 değilde O
 baktıkca O
@@ -6673,14 +6673,14 @@ gözler O
 kaymış O
 :D O
 
-@alpermutluozel S_PERSON
+@alpermutluozel S-PERSON
 Farkindayim O
 rahat O
 ol O
 :) O
 
-phillip B_PERSON
-turziano E_PERSON
+phillip B-PERSON
+turziano E-PERSON
 think O
 I'm O
 despised O
@@ -6693,7 +6693,7 @@ beni O
 
 Happy O
 b'day O
-twitter S_ORGANIZATION
+twitter S-ORGANIZATION
 :) O
 
 Sokakta O
@@ -6713,13 +6713,13 @@ olun. O
 Adam O
 olun.. O
 
-@ReiZiger1905 S_PERSON
+@ReiZiger1905 S-PERSON
 arkadaşın O
 kart O
 ile O
 aldırdım O
 bileti. O
-Bjk S_ORGANIZATION
+Bjk S-ORGANIZATION
 maçı O
 da O
 aynı O
@@ -6743,7 +6743,7 @@ yapsam O
 bilmiomm O
 :) O
 
-@GizemIi S_PERSON
+@GizemIi S-PERSON
 yapma O
 bana O
 bunu O
@@ -6757,7 +6757,7 @@ istyrm O
 :) O
 
 sağolsun O
-Emre S_PERSON
+Emre S-PERSON
 moralim O
 bozukken O
 yine O
@@ -6766,7 +6766,7 @@ güldürmeyi O
 başardı. O
 :) O
 
-@Mertozcn4 S_PERSON
+@Mertozcn4 S-PERSON
 bak O
 hemen O
 nasılda O
@@ -6797,7 +6797,7 @@ zevkli O
 oluyo O
 :D O
 
-@GkeMemis S_PERSON
+@GkeMemis S-PERSON
 yarın O
 seni O
 bomba O
@@ -6806,7 +6806,7 @@ bekliyorum O
 (antreman'da) O
 :) O
 
-@denzkucuk S_PERSON
+@denzkucuk S-PERSON
 kardeşim O
 yanlış O
 kelimeler O
@@ -6816,7 +6816,7 @@ et O
 ! O
 :D O
 
-@ceydot S_PERSON
+@ceydot S-PERSON
 bende O
 iyiyim O
 teşekkürler O
@@ -6829,7 +6829,7 @@ baya O
 çıkmışsın O
 (: O
 
-@DilsadGrler S_PERSON
+@DilsadGrler S-PERSON
 fake O
 çıktı O
 lan O
@@ -6845,10 +6845,10 @@ yerde O
 yanlıslık O
 oldu O
 
-@Ucupak S_PERSON
+@Ucupak S-PERSON
 :) O
 
-@Kaanyiit2 S_PERSON
+@Kaanyiit2 S-PERSON
 teşekkür O
 ederim. O
 Bence O
@@ -6880,7 +6880,7 @@ söyle O
 be O
 adam O
 
-@NidaOrucyuz S_PERSON
+@NidaOrucyuz S-PERSON
 Tabikide O
 anlatacağım O
 sana O
@@ -6889,8 +6889,8 @@ bebişiiiimmm O
 
 11. O
 bölümde O
-emir B_PERSON
-rızaya E_PERSON
+emir B-PERSON
+rızaya E-PERSON
 çapkınlık O
 dersi O
 verecekmiş O
@@ -6903,14 +6903,14 @@ ya O
 :D O
 #yalandunya O
 
-@EdaNurLara S_PERSON
+@EdaNurLara S-PERSON
 dost O
 acı O
 söyler O
 :D O
 :D O
 
-@damnedcupcake S_PERSON
+@damnedcupcake S-PERSON
 sen O
 yazabilirsin O
 ı O
@@ -6931,10 +6931,10 @@ her O
 yolunda! O
 :) O
 
-@senay_arslan S_PERSON
-@iremayataa S_PERSON
+@senay_arslan S-PERSON
+@iremayataa S-PERSON
 tamam O
-senay S_PERSON
+senay S-PERSON
 :D O
 
 ŞİŞKO O
@@ -6946,8 +6946,8 @@ MI O
 ? O
 XD O
 
-murat B_PERSON
-boz E_PERSON
+murat B-PERSON
+boz E-PERSON
 bulmaca O
 şarkısı O
 da O
@@ -6962,13 +6962,13 @@ bağırarak O
 söyleyesim O
 var. O
 
-@cagrikonyali S_PERSON
+@cagrikonyali S-PERSON
 bari O
 insan O
 caktirmaz O
 :) O
 
-Arizona S_LOCATION
+Arizona S-LOCATION
 State O
 University<e_enamex> O
 ;) O
@@ -6979,7 +6979,7 @@ saati O
 :) O
 
 RT O
-@akntna: S_PERSON
+@akntna: S-PERSON
 Omer O
 urundul O
 : O
@@ -6993,7 +6993,7 @@ Yorumcu O
 bu O
 adam.. O
 
-@Patisizkedi S_PERSON
+@Patisizkedi S-PERSON
 pata O
 küte O
 pata O
@@ -7004,13 +7004,13 @@ off O
 çok O
 fena O
 
-@KubraaYildirimm S_PERSON
+@KubraaYildirimm S-PERSON
 buyuk O
 gostermıs O
 onuuu O
 :D O
 
-@AysenurFidann S_PERSON
+@AysenurFidann S-PERSON
 tamamm O
 hepinizin O
 derdi O
@@ -7019,7 +7019,7 @@ sakin O
 olun O
 :D O
 
-@serterkaradeniz S_PERSON
+@serterkaradeniz S-PERSON
 yeni O
 albüm O
 değilde O
@@ -7050,8 +7050,8 @@ bulmak O
 <3 O
 :) O
 
-Tevfik B_PERSON
-Serdar E_PERSON
+Tevfik B-PERSON
+Serdar E-PERSON
 Kalbimizde O
 KalıTSAL O
 ;) O
@@ -7066,16 +7066,16 @@ and O
 prodigal O
 :) O
 
-@gkberk10 S_PERSON
+@gkberk10 S-PERSON
 yanlızlığına O
 talibimmm O
 :) O
 
-@TEAkolik S_PERSON
+@TEAkolik S-PERSON
 Ben O
 de O
 bir O
-Twitter S_ORGANIZATION
+Twitter S-ORGANIZATION
 Uygulaması O
 mı O
 yazsam O
@@ -7088,13 +7088,13 @@ düşünüyorsam.... O
 Doğruyu O
 söylemek O
 gerekirse O
-Louis S_PERSON
+Louis S-PERSON
 ve O
-Eleanor S_PERSON
+Eleanor S-PERSON
 yakışıyor O
 :D O
 
-@ucuncuharf S_PERSON
+@ucuncuharf S-PERSON
 tamam O
 çok O
 felsefe O
@@ -7103,8 +7103,8 @@ her O
 neyse O
 :D O
 
-Ömer B_PERSON
-Üründül E_PERSON
+Ömer B-PERSON
+Üründül E-PERSON
 futboldan O
 gram O
 anlıyosa O
@@ -7134,7 +7134,7 @@ ya O
 me! O
 ;) O
 
-@melisasusler S_PERSON
+@melisasusler S-PERSON
 şaka O
 yaptım O
 diyorum O
@@ -7162,7 +7162,7 @@ benim O
 olsun O
 desem O
 hep O
-@mustafaceceli S_PERSON
+@mustafaceceli S-PERSON
 sarkilari O
 cikiyor O
 hemde O
@@ -7170,14 +7170,14 @@ hic O
 teklemeden O
 :) O
 
-@ebegumec1 S_PERSON
-Camlıca S_LOCATION
+@ebegumec1 S-PERSON
+Camlıca S-LOCATION
 yollarındayı O
 soylesem O
 bıle O
 mı O
 hanı O
-youtubeluk S_ORGANIZATION
+youtubeluk S-ORGANIZATION
 vıdeo O
 desem O
 bıle O
@@ -7187,7 +7187,7 @@ anı O
 canlanmaz? O
 :D O
 
-@goknilhan S_PERSON
+@goknilhan S-PERSON
 bana O
 mı O
 :D O
@@ -7202,7 +7202,7 @@ kocum.anladın O
 sen O
 ;) O
 
-@asudiyorki S_PERSON
+@asudiyorki S-PERSON
 bi O
 yere O
 kaybolma, O
@@ -7214,7 +7214,7 @@ ihtiyaç O
 duyabilirim O
 :D O
 
-@germiyano S_PERSON
+@germiyano S-PERSON
 beeen O
 :D O
 
@@ -7222,7 +7222,7 @@ yeni O
 kullanıcı O
 adım O
 bu O
-@haticeeaglamaz S_PERSON
+@haticeeaglamaz S-PERSON
 yanlış O
 şey O
 etmeyin O
@@ -7234,11 +7234,11 @@ zis O
 grubuylaa O
 :) O
 
-@ysmn_okcu S_PERSON
+@ysmn_okcu S-PERSON
 Aynen O
 :D O
 
-@BeyinHunter S_PERSON
+@BeyinHunter S-PERSON
 mirabaaaalar O
 :D O
 
@@ -7246,7 +7246,7 @@ savur O
 tehditlerini O
 :) O
 
-@liambeste S_PERSON
+@liambeste S-PERSON
 Oha O
 sen O
 ne O
@@ -7258,7 +7258,7 @@ be O
 ?! O
 :D O
 
-@HennaMey1 S_PERSON
+@HennaMey1 S-PERSON
 vıyyyyy O
 :O O
 okula O
@@ -7268,7 +7268,7 @@ lan O
 öyle O
 :D O
 
-@esrakocabay S_PERSON
+@esrakocabay S-PERSON
 kalk O
 git O
 be O
@@ -7276,8 +7276,8 @@ be O
 o O
 :D O
 
-Ogün B_PERSON
-samast E_PERSON
+Ogün B-PERSON
+samast E-PERSON
 bayağı O
 büyümüş, O
 gürbüz O
@@ -7292,7 +7292,7 @@ başlamış O
 mıdır O
 acep? O
 
-@Baharalacak S_PERSON
+@Baharalacak S-PERSON
 evet O
 aşkım O
 çok O
@@ -7306,7 +7306,7 @@ yordu O
 beni O
 :) O
 
-@Besteegg S_PERSON
+@Besteegg S-PERSON
 oha O
 lan O
 benım O
@@ -7315,7 +7315,7 @@ bıle O
 yook O
 :D O
 
-@selenng S_PERSON
+@selenng S-PERSON
 ne O
 bu O
 tavirlar O
@@ -7334,7 +7334,7 @@ olucam O
 inşallah O
 :D O
 
-@yucekok S_PERSON
+@yucekok S-PERSON
 gerci O
 bide O
 bu O
@@ -7358,14 +7358,14 @@ ama O
 senin O
 özelliğin O
 bu O
-@fettahcan S_PERSON
+@fettahcan S-PERSON
 :) O
 muhteşem O
 olmuş O
 yine.yüreğine,sesine O
 sağlık... O
 
-@ipek_ersoy S_PERSON
+@ipek_ersoy S-PERSON
 hepsinde O
 ayrı O
 güzelsin O
@@ -7376,18 +7376,18 @@ hem O
 tarzına O
 :) O
 
-stanley S_PERSON
+stanley S-PERSON
 think O
 I'm O
 flippant O
 :) O
 
 Haftasonu O
-Galatasaray S_ORGANIZATION
+Galatasaray S-ORGANIZATION
 maci O
 var O
 bide O
-Trabzon<e_enamex> S_LOCATION
+Trabzon<e_enamex> S-LOCATION
 :) O
 haftasonu O
 bu O
@@ -7396,7 +7396,7 @@ zor O
 cikarlar O
 maca O
 
-darron S_PERSON
+darron S-PERSON
 think O
 I'm O
 blundering O
@@ -7404,7 +7404,7 @@ and O
 plundering O
 :) O
 
-@emirhannulger S_PERSON
+@emirhannulger S-PERSON
 benım O
 o O
 pembelı O
@@ -7413,13 +7413,13 @@ tweet O
 atamıyorum O
 :( O
 
-@nejlaaugurluay S_PERSON
+@nejlaaugurluay S-PERSON
 kardiş O
 ne O
 ya O
 :D O
 
-@Aykun91 S_PERSON
+@Aykun91 S-PERSON
 bu O
 çok O
 iyi O
@@ -7428,7 +7428,7 @@ iyi O
 Em O
 güzel O
 kız O
-cansel S_PERSON
+cansel S-PERSON
 :) O
 birde O
 göre O
@@ -7446,7 +7446,7 @@ yaaaa O
 :) O
 
 RT O
-@BerxwedanYARUK: S_PERSON
+@BerxwedanYARUK: S-PERSON
 Şu O
 fotoğrafa O
 1 O
@@ -7466,8 +7466,8 @@ verirsiniz! O
 http O
 ... O
 
-@Silkwormm S_PERSON
-@hasiktiir S_PERSON
+@Silkwormm S-PERSON
+@hasiktiir S-PERSON
 bu O
 kız O
 haklı O
@@ -7478,8 +7478,8 @@ verin O
 zeynepe O
 :D O
 
-palmer B_PERSON
-poulton E_PERSON
+palmer B-PERSON
+poulton E-PERSON
 think O
 I'm O
 237. O
@@ -7501,7 +7501,7 @@ parça O
 etrafa O
 yayılır." O
 
-@kaanoznam S_PERSON
+@kaanoznam S-PERSON
 yazdan O
 beri O
 tavan O
@@ -7510,19 +7510,19 @@ kanka O
 :D O
 
 eee O
-bimcell S_ORGANIZATION
+bimcell S-ORGANIZATION
 e O
 geciyomuyuz O
 gencleer O
 :) O
 
-@bensogukcay S_PERSON
+@bensogukcay S-PERSON
 ıslık O
 çalsaydın O
 dururdu O
 :D O
 
-@fettahcan S_PERSON
+@fettahcan S-PERSON
 şarkıları O
 sahibinden O
 dinlemek O
@@ -7531,7 +7531,7 @@ bir O
 keyifmis O
 ;) O
 
-faye S_PERSON
+faye S-PERSON
 think O
 I'm O
 adorned O
@@ -7553,9 +7553,9 @@ değil O
 mi? O
 :( O
 
-@nilaygguler S_PERSON
+@nilaygguler S-PERSON
 cografyada O
-türkiyenin S_LOCATION
+türkiyenin S-LOCATION
 oluşum O
 sürecindeki O
 jeolojik O
@@ -7565,7 +7565,7 @@ mi O
 biz O
 :D O
 
-@FBNIC39 S_PERSON
+@FBNIC39 S-PERSON
 tamam O
 knka O
 goruselım O
@@ -7598,13 +7598,13 @@ gülüyorum O
 :D O
 :D O
 
-@elifnuraydn S_PERSON
+@elifnuraydn S-PERSON
 :D O
 minibüsçü O
 kim O
 ki O
 
-@ecemgecgel S_PERSON
+@ecemgecgel S-PERSON
 rt O
 ayrı O
 bişey O
@@ -7622,12 +7622,12 @@ Sokaklar O
 ahahha O
 
 RT O
-@caglayldzz: S_PERSON
-@KHJ_TripleS S_PERSON
+@caglayldzz: S-PERSON
+@KHJ_TripleS S-PERSON
 asdada O
 :D O
 
-@Sagopakajmerrap S_PERSON
+@Sagopakajmerrap S-PERSON
 dertleşebileceğim O
 kimsem O
 yok, O
@@ -7642,14 +7642,14 @@ akşamlar O
 dilerim O
 :) O
 
-@UmutEshan S_PERSON
-Vikipedi S_ORGANIZATION
+@UmutEshan S-PERSON
+Vikipedi S-ORGANIZATION
 de O
 yok O
 ki O
 :) O
 
-@_ABG_ S_PERSON
+@_ABG_ S-PERSON
 Heeee O
 ewet O
 anladgm O
@@ -7661,13 +7661,13 @@ bilio(sewgili O
 meslektaşm)konusmayi O
 deil:D O
 
-@GzdeOzz S_PERSON
+@GzdeOzz S-PERSON
 Allah O
 bozmasın O
 bebeğiim O
 :) O
 
-@intizamikelam S_PERSON
+@intizamikelam S-PERSON
 Evet O
 içinde O
 oldukça O
@@ -7684,7 +7684,7 @@ olması..dengeyi O
 iyi O
 kurmuşsun O
 
-@cisemseven S_PERSON
+@cisemseven S-PERSON
 aricaksin O
 benu O
 neolur O
@@ -7696,7 +7696,7 @@ diceksin O
 ama O
 :) O
 
-@RecepKala S_PERSON
+@RecepKala S-PERSON
 niye O
 abi O
 stoch O
@@ -7705,7 +7705,7 @@ bienvenuyle O
 mac O
 :) O
 
-@gizemberkyrek S_PERSON
+@gizemberkyrek S-PERSON
 hiç O
 belli O
 etmiyorum O
@@ -7723,7 +7723,7 @@ Nabersiniz O
 ? O
 :D O
 
-@BrkGpg S_PERSON
+@BrkGpg S-PERSON
 ooh O
 geldim O
 bil O
@@ -7739,9 +7739,9 @@ kendimi O
 astim O
 :D O
 
-Ece S_PERSON
+Ece S-PERSON
 bana O
-Londra S_LOCATION
+Londra S-LOCATION
 bilet O
 alcaksın O
 dimii,kandırmıyosuuun O
@@ -7750,8 +7750,8 @@ benii O
 
 bu O
 nasıl O
-spiket B_PERSON
-jelusga E_PERSON
+spiket B-PERSON
+jelusga E-PERSON
 kim O
 olum O
 hangi O
@@ -7765,14 +7765,14 @@ adam O
 zamanı O
 :) O
 
-@HavvanurT S_PERSON
+@HavvanurT S-PERSON
 Kaç O
 olmuşsun O
 30 O
 mu? O
 :D O
 
-@egeknyl S_PERSON
+@egeknyl S-PERSON
 eyvalalh O
 karşim O
 :D O
@@ -7801,19 +7801,19 @@ acıcam O
 gelecekmissiz O
 :) O
 
-@LittleMixers_ox S_PERSON
+@LittleMixers_ox S-PERSON
 follow O
 back O
 please O
 :) O
 
-gabrielle S_PERSON
+gabrielle S-PERSON
 think O
 I'm O
 euphoric O
 :) O
 
-@CarpeDieemm S_PERSON
+@CarpeDieemm S-PERSON
 Kilo O
 vercez O
 yazın O
@@ -7841,13 +7841,13 @@ yıllık O
 başlayabiliriiiz O
 :) O
 
-@brfukrmeors S_PERSON
+@brfukrmeors S-PERSON
 Benimde O
 uzayinca O
 gorucez O
 :D O
 
-@DilaraZayn S_PERSON
+@DilaraZayn S-PERSON
 ben O
 anası O
 olsam.valla O
@@ -7859,8 +7859,8 @@ oyle O
 isim O
 :D O
 
-@atillaberk S_PERSON
-@aslihannozturk S_PERSON
+@atillaberk S-PERSON
+@aslihannozturk S-PERSON
 heey O
 benim O
 amcamın O
@@ -7874,11 +7874,11 @@ yıcektım O
 be O
 :D O
 
-@EmirSarrafoglu_ S_PERSON
+@EmirSarrafoglu_ S-PERSON
 Yolladınmıı? O
 :D O
 
-@Zeynolive S_PERSON
+@Zeynolive S-PERSON
 hayırlı O
 evlat O
 :) O
@@ -7887,14 +7887,14 @@ geleceğin O
 yazarı O
 :))) O
 
-@ArdaSenturk34 S_PERSON
+@ArdaSenturk34 S-PERSON
 Tek O
 yol O
 hepar O
 arda O
 :D O
 
-@busraahishali S_PERSON
+@busraahishali S-PERSON
 o O
 zaman O
 cok O
@@ -7910,7 +7910,7 @@ ortasında O
 bulusuruz O
 :D O
 
-@aleynaaergul S_PERSON
+@aleynaaergul S-PERSON
 :D O
 ok O
 
@@ -7931,7 +7931,7 @@ and O
 apprehension O
 :) O
 
-@_ArdArda_ S_PERSON
+@_ArdArda_ S-PERSON
 ağlaya O
 ağlaya O
 yazıyordur O
@@ -7945,7 +7945,7 @@ istemiyüm O
 :D O
 
 RT O
-@nuutellaaaaaa: S_PERSON
+@nuutellaaaaaa: S-PERSON
 Teoman O
 şarkılarında O
 bana O
@@ -7957,7 +7957,7 @@ hadi.' O
 diyor O
 resmen. O
 
-@dilaraksr S_PERSON
+@dilaraksr S-PERSON
 Yok O
 küçük O
 L O
@@ -8002,7 +8002,7 @@ anlasun O
 bu O
 senin O
 için O
-@iremyagmuroglu S_PERSON
+@iremyagmuroglu S-PERSON
 ? O
 :D O
 
@@ -8021,7 +8021,7 @@ to O
 talk O
 :) O
 
-@aleynaaerdogan S_PERSON
+@aleynaaerdogan S-PERSON
 ayy O
 insallah O
 insallaaaahhh O
@@ -8033,7 +8033,7 @@ kalmışım O
 yaaa O
 :( O
 
-@HilalPrl S_PERSON
+@HilalPrl S-PERSON
 :D O
 ıyı O
 seyırler O
@@ -8044,7 +8044,7 @@ kacta O
 baslıcak O
 mac? O
 
-@busracetin95 S_PERSON
+@busracetin95 S-PERSON
 sınavlardan O
 vakıt O
 mı O
@@ -8069,8 +8069,8 @@ biliyorum. O
 Saygılar O
 . O
 
-lynwood B_PERSON
-roecker E_PERSON
+lynwood B-PERSON
+roecker E-PERSON
 think O
 I'm O
 brave O
@@ -8078,14 +8078,14 @@ and O
 chivalrous O
 :) O
 
-@aleynadelii S_PERSON
+@aleynadelii S-PERSON
 Hahahaha O
 :) O
 Doğrudur.Teşekkür O
 ederim O
 
 elveda O
-kütahya S_LOCATION
+kütahya S-LOCATION
 senden O
 hayır O
 yokmuş O
@@ -8106,8 +8106,8 @@ kaldırdık O
 .. O
 hayırlısı. O
 
-@DmrcTaha S_PERSON
-@yusuftuncerr S_PERSON
+@DmrcTaha S-PERSON
+@yusuftuncerr S-PERSON
 yusuf O
 da O
 bitirmiş O
@@ -8116,7 +8116,7 @@ sesi O
 çıkmıyor O
 :D O
 
-@cancevik06 S_PERSON
+@cancevik06 S-PERSON
 haha O
 buna O
 bir O
@@ -8126,12 +8126,12 @@ tahmin O
 etmiştim O
 :D O
 
-@kvsr_glr S_PERSON
+@kvsr_glr S-PERSON
 eskiler O
 boşver O
 :) O
 
-@umurozaydin S_PERSON
+@umurozaydin S-PERSON
 yanlislikla O
 oldu O
 o O
@@ -8141,7 +8141,7 @@ hakaret O
 ediyosun O
 olmadi O
 
-@KrmSyhn S_PERSON
+@KrmSyhn S-PERSON
 ımmmmm O
 mesela... O
 Arada O
@@ -8176,7 +8176,7 @@ etmesin O
 yapıyoduk O
 :D O
 
-@Aycebenek S_PERSON
+@Aycebenek S-PERSON
 ahahhahaha O
 kanka O
 bilmiyorum O
@@ -8188,14 +8188,14 @@ curcuna O
 olabilir O
 :D O
 
-@edabekdmr S_PERSON
+@edabekdmr S-PERSON
 aynenn O
 gece O
 en O
 iyisii O
 :D O
 
-@nupeldaa S_PERSON
+@nupeldaa S-PERSON
 dünya O
 şiir O
 günümüz O
@@ -8213,7 +8213,7 @@ tek O
 arkadaşım O
 :) O
 
-@sezin_susmus S_PERSON
+@sezin_susmus S-PERSON
 :) O
 
 Havaların O
@@ -8227,12 +8227,12 @@ gayet O
 guzell O
 :D O
 
-@YgtBaslkaya S_PERSON
+@YgtBaslkaya S-PERSON
 teşekkürler O
 kardesim O
 :) O
 
-@GzdeOzz S_PERSON
+@GzdeOzz S-PERSON
 :D O
 hayir O
 bnu O
@@ -8251,9 +8251,9 @@ sana O
 sıkıntı O
 yaramıyor O
 :D O
-@__Alican S_PERSON
+@__Alican S-PERSON
 
-@p_ozdemir S_PERSON
+@p_ozdemir S-PERSON
 bu O
 takım O
 adamı O
@@ -8266,21 +8266,21 @@ Prison O
 Break O
 çeker O
 mi? O
-@evinyilmaz S_PERSON
+@evinyilmaz S-PERSON
 sayesinde O
 bu O
 da O
 oldu. O
 :) O
 
-@aycasenbaskan S_PERSON
+@aycasenbaskan S-PERSON
 :) O
 Sureyya O
 Berfe`ye O
 cok O
 sevgıler... O
 
-@safkansarisin S_PERSON
+@safkansarisin S-PERSON
 mesaj O
 attım O
 yavrum O
@@ -8302,7 +8302,7 @@ yanımda O
 değildi O
 :( O
 
-@neslihanunkan S_PERSON
+@neslihanunkan S-PERSON
 Belli O
 oluyo O
 :) O
@@ -8314,7 +8314,7 @@ da O
 tamamla O
 bari O
 
-@hazalkurtoglu1 S_PERSON
+@hazalkurtoglu1 S-PERSON
 bak O
 bir O
 burda O
@@ -8327,7 +8327,7 @@ kaybol O
 sevgilim O
 :D O
 
-@MCoznur S_PERSON
+@MCoznur S-PERSON
 niye O
 güzel O
 derstir O
@@ -8335,7 +8335,7 @@ derstir O
 severim O
 :) O
 
-@HUDOGAN S_PERSON
+@HUDOGAN S-PERSON
 Adamsın, O
 adam O
 gibi O
@@ -8349,15 +8349,15 @@ dibisin, O
 über O
 zaafımsın O
 
-@ZekaiTosun S_PERSON
+@ZekaiTosun S-PERSON
 hahaha O
 işte O
 bu O
 oldu O
 :D O
 
-Fettah B_PERSON
-Can E_PERSON
+Fettah B-PERSON
+Can E-PERSON
 Albümünü O
 dinlemeye O
 başladım O
@@ -8385,7 +8385,7 @@ bok O
 bilmiyorum O
 :( O
 
-@kvanczcan S_PERSON
+@kvanczcan S-PERSON
 teşekkür O
 ederim O
 , O
@@ -8393,7 +8393,7 @@ adım O
 şimal O
 :D O
 
-@09YURTTAS S_PERSON
+@09YURTTAS S-PERSON
 B'nde O
 tatmadım O
 hic O
@@ -8417,8 +8417,8 @@ bicim O
 Komik O
 videolar O
 facede O
-GS S_ORGANIZATION
-Sivas<e_enamex> S_LOCATION
+GS S-ORGANIZATION
+Sivas<e_enamex> S-LOCATION
 maçının O
 özetini O
 paylaşmış O
@@ -8429,14 +8429,14 @@ ama O
 :D O
 
 RT O
-@DouglassLimaa96: S_PERSON
-@Sweet_BellaT S_PERSON
+@DouglassLimaa96: S-PERSON
+@Sweet_BellaT S-PERSON
 Thank O
 :) O
 
 RT O
-@DouglassLimaa96: S_PERSON
-@Sweet_BellaT S_PERSON
+@DouglassLimaa96: S-PERSON
+@Sweet_BellaT S-PERSON
 Thank O
 :) O
 
@@ -8450,7 +8450,7 @@ full O
 ezber O
 :( O
 
-@ozgunugurlu S_PERSON
+@ozgunugurlu S-PERSON
 Abim O
 nasılsın?Yeni O
 albümünü O
@@ -8462,14 +8462,14 @@ miyiz O
 valla. O
 ;) O
 
-@SevvalCesen S_PERSON
+@SevvalCesen S-PERSON
 ayağına O
 ne O
 oldukiii O
 :( O
 
 RT O
-@golfingir: S_PERSON
+@golfingir: S-PERSON
 Aşık O
 bir O
 adam O
@@ -8490,7 +8490,7 @@ ağrıtmaz, O
 p O
 ... O
 
-@gokhaangul S_PERSON
+@gokhaangul S-PERSON
 bence O
 ilk O
 sirada O
@@ -8500,7 +8500,7 @@ Sirada O
 saat O
 :) O
 
-@disisami S_PERSON
+@disisami S-PERSON
 yes O
 :D O
 
@@ -8522,7 +8522,7 @@ cidden O
 utaniyorum O
 :) O
 
-@EmreKrca S_PERSON
+@EmreKrca S-PERSON
 panpa O
 gözüne O
 sağlık O
@@ -8542,7 +8542,7 @@ gönderebilirsin? O
 :( O
 mümkünse O
 
-@Nilireminan S_PERSON
+@Nilireminan S-PERSON
 sınıftakiler O
 beni O
 kovdu O
@@ -8550,11 +8550,11 @@ artık O
 panta O
 :D O
 
-@itsogi16 S_PERSON
+@itsogi16 S-PERSON
 :) O
 
-emre B_PERSON
-altuğ E_PERSON
+emre B-PERSON
+altuğ E-PERSON
 un O
 sıcak O
 adındaki O
@@ -8589,14 +8589,14 @@ tatlı O
 ciddennn O
 
 RT O
-@AkalinDemet: S_PERSON
+@AkalinDemet: S-PERSON
 veeee O
-DENİZ B_PERSON
-SEKİ E_PERSON
+DENİZ B-PERSON
+SEKİ E-PERSON
 şarkıları O
 yolda.... O
 
-@bestoof S_PERSON
+@bestoof S-PERSON
 ama O
 canım O
 test O
@@ -8610,11 +8610,11 @@ cozmem O
 bılıyosun O
 :) O
 
-@aygulhoran S_PERSON
+@aygulhoran S-PERSON
 hangisine O
 :) O
 
-@ecemgirginn S_PERSON
+@ecemgirginn S-PERSON
 bakalım O
 yarın O
 belli O
@@ -8625,7 +8625,7 @@ ama O
 çok O
 zor O
 
-@oznrbasrn S_PERSON
+@oznrbasrn S-PERSON
 hııı O
 gördüm O
 şimdi. O
@@ -8641,7 +8641,7 @@ hayırlısı O
 olsun O
 :D O
 
-@selenayildiz S_PERSON
+@selenayildiz S-PERSON
 inadına O
 yapacağım O
 ya O
@@ -8659,18 +8659,18 @@ takılmazlarsa O
 iyidir O
 :D O
 
-@OguzKaraagac S_PERSON
+@OguzKaraagac S-PERSON
 var O
 lan O
 var O
 :D O
 
-@azrakarc84 S_PERSON
+@azrakarc84 S-PERSON
 :D O
 
 RT O
-@EsooEss: S_PERSON
-@yilmazodabasi S_PERSON
+@EsooEss: S-PERSON
+@yilmazodabasi S-PERSON
 Şarkısı O
 Beyaz'la O
 tanıdım O
@@ -8683,7 +8683,7 @@ daim O
 yüreklerimi O
 ... O
 
-@deryasaatcioglu S_PERSON
+@deryasaatcioglu S-PERSON
 tesekkurler O
 hepimize O
 ins O
@@ -8700,20 +8700,20 @@ oyundan O
 bile O
 cikabiliyormus O
 
-@caglabaskan S_PERSON
+@caglabaskan S-PERSON
 noldu O
 canım O
 ? O
 :) O
 
-@idilcanpolat S_PERSON
+@idilcanpolat S-PERSON
 oha O
 tam O
 ben O
 yazıcaktıım O
 :D O
 
-sebastian S_PERSON
+sebastian S-PERSON
 think O
 I'm O
 293. O
@@ -8728,11 +8728,11 @@ puan O
 hesapklıyoruuk O
 :D O
 
-@violet_gregory S_PERSON
+@violet_gregory S-PERSON
 spamlandı O
 ;) O
 
-@Tbaertkn S_PERSON
+@Tbaertkn S-PERSON
 kızım O
 bende O
 artık O
@@ -8740,7 +8740,7 @@ gülmekten O
 katılıyorum O
 :D O
 
-@NurTambulut S_PERSON
+@NurTambulut S-PERSON
 Cidden O
 benim O
 de O
@@ -8762,7 +8762,7 @@ sen O
 duurr O
 :D O
 
-camila S_PERSON
+camila S-PERSON
 think O
 I'm O
 259. O
@@ -8776,22 +8776,22 @@ gidilir O
 haniii O
 ;) O
 
-@iskembe_ikubra S_PERSON
+@iskembe_ikubra S-PERSON
 eyvallaaah O
 :) O
 
-Demet B_PERSON
-Akalının E_PERSON
+Demet B-PERSON
+Akalının E-PERSON
 bütün O
 şarkılarını O
 toplasan O
-Ajdarın S_PERSON
+Ajdarın S-PERSON
 ''şahdamar'' O
 kadar O
 etmez O
 :D O
 
-@SimaDorado S_PERSON
+@SimaDorado S-PERSON
 rica O
 ederim O
 rt'yi O
@@ -8799,7 +8799,7 @@ hak O
 ediyordu O
 ;) O
 
-@alperenayvali S_PERSON
+@alperenayvali S-PERSON
 ha O
 oldu O
 o O
@@ -8811,12 +8811,12 @@ ir O
 misin O
 :D O
 
-@GoncagulOzen S_PERSON
+@GoncagulOzen S-PERSON
 Sagol O
 sekerim O
 :D O
 
-@elayenikoylu S_PERSON
+@elayenikoylu S-PERSON
 yatak,yorgan,peçete,çöp,antibiyotik,naneli O
 şeker,bal-zencefil O
 yatıyorum O
@@ -8832,11 +8832,11 @@ Yapacak O
 adam O
 yok. O
 
-@Mervecelikiz S_PERSON
+@Mervecelikiz S-PERSON
 haha O
 :D O
 
-@rise_of_kabus S_PERSON
+@rise_of_kabus S-PERSON
 haklısın O
 da O
 herzaman O
@@ -8849,14 +8849,14 @@ olmalı O
 bence O
 :) O
 
-@officialjaden S_PERSON
+@officialjaden S-PERSON
 Please O
 please O
 please O
 please O
 follow O
 me O
-Jadeen S_PERSON
+Jadeen S-PERSON
 :( O
 2 O
 
@@ -8869,12 +8869,12 @@ sarmısak O
 yiyiyormuş, O
 kokmuş. O
 
-@merveglsn S_PERSON
+@merveglsn S-PERSON
 seni O
 olduruceeeeem O
 :( O
 
-@cansevcansev S_PERSON
+@cansevcansev S-PERSON
 In O
 baktigi O
 falll O
@@ -8888,7 +8888,7 @@ kac O
 ki O
 :) O
 
-@buketolcgn S_PERSON
+@buketolcgn S-PERSON
 hahahahahahha O
 allah O
 iyiligini O
@@ -8896,7 +8896,7 @@ vermesin O
 amk O
 :D O
 
-@EfeAtamer S_PERSON
+@EfeAtamer S-PERSON
 never O
 never O
 never O
@@ -8919,7 +8919,7 @@ yok O
 birtek O
 :))) O
 
-@yasemin1134 S_PERSON
+@yasemin1134 S-PERSON
 tamam O
 :D O
 kanka O
@@ -8933,15 +8933,15 @@ telefonun O
 Afiyet O
 olsunn O
 :) O
-@thelondonergirl S_PERSON
-@cecenfiko S_PERSON
+@thelondonergirl S-PERSON
+@cecenfiko S-PERSON
 
-@nisohafif S_PERSON
-@dennisbjk S_PERSON
-@emrekurtisler S_PERSON
+@nisohafif S-PERSON
+@dennisbjk S-PERSON
+@emrekurtisler S-PERSON
 Utanmadan O
 hala O
-y.demiroren S_PERSON
+y.demiroren S-PERSON
 dio O
 adam O
 kulubu O
@@ -8953,25 +8953,25 @@ adami O
 destekleyenler O
 disari O
 
-@cesnediyor S_PERSON
+@cesnediyor S-PERSON
 benim O
 95 O
 ;) O
 
-@hazal_ipek S_PERSON
-@SuedaFurkan4 S_PERSON
+@hazal_ipek S-PERSON
+@SuedaFurkan4 S-PERSON
 hoşgeldnnnnnnnnnnnnnnnnnnnn O
 <3 O
 :) O
 
-@esmakaymak1 S_PERSON
+@esmakaymak1 S-PERSON
 BBM O
 ekledım O
 seni O
 :D O
 
-@TyraOtcuoglu S_PERSON
-@__NazAcik__ S_PERSON
+@TyraOtcuoglu S-PERSON
+@__NazAcik__ S-PERSON
 getirmeyen O
 karamelin O
 o O
@@ -8993,8 +8993,8 @@ sonra O
 :D O
 :D O
 
-kabahat B_PERSON
-tuncel E_PERSON
+kabahat B-PERSON
+tuncel E-PERSON
 attığı O
 tokatın O
 karşılığını O
@@ -9021,13 +9021,13 @@ gidiyor O
 amk O
 :D O
 
-@blisssyndrome S_PERSON
-Ege B_LOCATION
-Üniversitesi I_LOCATION
-Bölümü) E_LOCATION
+@blisssyndrome S-PERSON
+Ege B-LOCATION
+Üniversitesi I-LOCATION
+Bölümü) E-LOCATION
 :D O
 
-@KrdgKardelen S_PERSON
+@KrdgKardelen S-PERSON
 bende O
 guldum O
 sanirim O
@@ -9038,8 +9038,8 @@ olabilir O
 yani O
 :) O
 
-Kanal B_ORGANIZATION
-7 E_ORGANIZATION
+Kanal B-ORGANIZATION
+7 E-ORGANIZATION
 de O
 sultan O
 fılmı O
@@ -9053,7 +9053,7 @@ kdar O
 ınandırıcı O
 :) O
 
-@NisanBayram S_PERSON
+@NisanBayram S-PERSON
 hiimm O
 bi O
 konusalim O
@@ -9078,13 +9078,13 @@ sen O
 olm. O
 
 RT O
-@eminekeskinnn: S_PERSON
-@yasemmiinn S_PERSON
+@eminekeskinnn: S-PERSON
+@yasemmiinn S-PERSON
 hiç O
 yani O
 :D O
 
-@ezgi_9lardan S_PERSON
+@ezgi_9lardan S-PERSON
 Katiliyorum, O
 hem O
 bir O
@@ -9096,7 +9096,7 @@ de O
 egleniyoruz O
 :D O
 
-Yunus S_PERSON
+Yunus S-PERSON
 benim O
 stilistim O
 oldu O
@@ -9112,7 +9112,7 @@ sapsal O
 :D O
 
 RT O
-@ssizofrenik: S_PERSON
+@ssizofrenik: S-PERSON
 Fotoğraf O
 makinasında O
 fotoğraf O
@@ -9123,7 +9123,7 @@ kullanıyorsan, O
 yalnızsın O
 demektir. O
 
-@asliAatay S_PERSON
+@asliAatay S-PERSON
 belkide O
 böyle O
 sevmek O
@@ -9147,36 +9147,36 @@ sacma O
 insanlar.. O
 
 RT O
-@ireeeeeem: S_PERSON
-@betul_yetiis S_PERSON
+@ireeeeeem: S-PERSON
+@betul_yetiis S-PERSON
 tabii O
 :D O
 <3 O
 
-@ftw1905 S_PERSON
+@ftw1905 S-PERSON
 Neydi O
 abi O
 totem? O
 :) O
 
-@berkozkannnn S_PERSON
+@berkozkannnn S-PERSON
 :) O
 tamam O
 lan O
 tamam O
 
-@officialjaden S_PERSON
+@officialjaden S-PERSON
 Please O
 please O
 please O
 please O
 follow O
 me O
-Jadeen S_PERSON
+Jadeen S-PERSON
 :( O
 3 O
 
-@gereksizkonusma S_PERSON
+@gereksizkonusma S-PERSON
 : O
 "benden O
 cok O
@@ -9202,7 +9202,7 @@ salonda O
 unutmuşum O
 :( O
 
-@caglakaradnz S_PERSON
+@caglakaradnz S-PERSON
 Evet O
 az O
 benziyo O
@@ -9215,7 +9215,7 @@ sırada O
 
 fallow O
 me O
-@officialjaden S_PERSON
+@officialjaden S-PERSON
 pleasee O
 ! O
 :( O
@@ -9235,14 +9235,14 @@ kardeş O
 diyorum O
 :) O
 
-@ayhanisikk S_PERSON
+@ayhanisikk S-PERSON
 
-@serenkayaa1 S_PERSON
+@serenkayaa1 S-PERSON
 evet O
 caniiiiiiiim O
 :D O
 
-@iremkorkut S_PERSON
+@iremkorkut S-PERSON
 Ne O
 oldu O
 gene O
@@ -9250,7 +9250,7 @@ ne O
 oldu O
 :D O
 
-@HrnMhmt S_PERSON
+@HrnMhmt S-PERSON
 ahahha O
 benimki O
 de O
@@ -9261,7 +9261,7 @@ evlat O
 acısı O
 gibii O
 
-@_mss_tomlinson_ S_PERSON
+@_mss_tomlinson_ S-PERSON
 Ettim O
 yaa O
 :D O
@@ -9280,15 +9280,15 @@ yayın O
 yaptınızz O
 :) O
 
-@MstfTssvr S_PERSON
+@MstfTssvr S-PERSON
 hahahahhahah..! O
 :D O
-BİM S_ORGANIZATION
+BİM S-ORGANIZATION
 seviyorum O
 yaaa..! O
 :D O
 
-@BerkaySanal S_PERSON
+@BerkaySanal S-PERSON
 o O
 da O
 batti O
@@ -9298,7 +9298,7 @@ oyle O
 kardesim O
 :D O
 
-@Argostroloji S_PERSON
+@Argostroloji S-PERSON
 sayfayı O
 f5leye O
 5leye O
@@ -9309,13 +9309,13 @@ hadi O
 yaa O
 :D O
 
-@saipertem S_PERSON
+@saipertem S-PERSON
 Saolun O
 hocam O
 sizinde O
 :) O
 
-@OsteoImperfecta S_PERSON
+@OsteoImperfecta S-PERSON
 evet O
 o O
 da O
@@ -9329,21 +9329,21 @@ dinliyorum O
 hem O
 :)) O
 
-@aysesude439 S_PERSON
+@aysesude439 S-PERSON
 ohhh O
 senin O
 için O
 sevindim O
 :) O
 
-@BuseCanberk S_PERSON
+@BuseCanberk S-PERSON
 aynen O
 ya O
 hahaha O
 of O
 :D O
 
-@AlinaBoz S_PERSON
+@AlinaBoz S-PERSON
 ne O
 sınavın O
 var O
@@ -9351,7 +9351,7 @@ dost O
 ? O
 :D O
 
-@appayeapyeapp S_PERSON
+@appayeapyeapp S-PERSON
 son O
 anda O
 ataklanan O
@@ -9366,7 +9366,7 @@ verir O
 misin O
 :) O
 
-@AnlyEda S_PERSON
+@AnlyEda S-PERSON
 o O
 kadar O
 hastayım O
@@ -9379,8 +9379,8 @@ nefes O
 alamıyorum O
 :D O
 
-Ajdar S_PERSON
-eurovision S_ORGANIZATION
+Ajdar S-PERSON
+eurovision S-ORGANIZATION
 şarkısını O
 ";Cikita O
 Muz"; O
@@ -9388,14 +9388,14 @@ a O
 benzetmiş. O
 :D O
 
-@filizkrgl S_PERSON
-@berrin_yldz S_PERSON
+@filizkrgl S-PERSON
+@berrin_yldz S-PERSON
 a.s, O
 pilavlıya O
 bekleriz O
 :) O
 
-@sulltaaaaaan S_PERSON
+@sulltaaaaaan S-PERSON
 efendim O
 :) O
 
@@ -9406,7 +9406,7 @@ I'm O
 placid O
 :) O
 
-@meryemgayberi S_PERSON
+@meryemgayberi S-PERSON
 ve O
 bir O
 kadının O
@@ -9421,13 +9421,13 @@ benden O
 adam O
 olmaz O
 
-@byz_33 S_PERSON
+@byz_33 S-PERSON
 canımın O
 içiiiiii O
 :) O
 takipteyim O
 
-@elaslann S_PERSON
+@elaslann S-PERSON
 allahtan O
 onlardan O
 biri O
@@ -9438,12 +9438,12 @@ kendimi O
 şimdi O
 :) O
 
-@blank1 S_PERSON
+@blank1 S-PERSON
 love O
 you!! O
 :D O
 
-@UltraPwnage S_PERSON
+@UltraPwnage S-PERSON
 olsoonn O
 çok O
 tatlı O
@@ -9451,18 +9451,18 @@ tatlı O
 seviyorumm O
 :D O
 
-@asilinge S_PERSON
+@asilinge S-PERSON
 ne O
 yazdin O
 ki? O
 ;) O
 
-@drya89 S_PERSON
+@drya89 S-PERSON
 aynen O
 bebeğimm O
 :) O
 
-janiece S_PERSON
+janiece S-PERSON
 think O
 I'm O
 happiness O
@@ -9470,7 +9470,7 @@ and O
 pleasantness O
 :) O
 
-@Akgldgtkr S_PERSON
+@Akgldgtkr S-PERSON
 yoksasini O
 gorursunn O
 ya O
@@ -9479,12 +9479,12 @@ ya O
 buldun O
 :D O
 
-@pikoshake S_PERSON
+@pikoshake S-PERSON
 yanı O
 :) O
 
-lanell B_PERSON
-foulds E_PERSON
+lanell B-PERSON
+foulds E-PERSON
 think O
 I'm O
 mighty O
@@ -9492,14 +9492,14 @@ and O
 majestic O
 :) O
 
-@IsaCanturkYay S_PERSON
-@tylerterk S_PERSON
+@IsaCanturkYay S-PERSON
+@tylerterk S-PERSON
 adam O
 oran O
 buluyor O
 oraaaan O
 
-@anelyalek S_PERSON
+@anelyalek S-PERSON
 hee O
 alisinca O
 ben O
@@ -9518,8 +9518,8 @@ biter. O
 :) O
 
 RT O
-@ElifDagtas: S_PERSON
-@angaralimarla S_PERSON
+@ElifDagtas: S-PERSON
+@angaralimarla S-PERSON
 hayra O
 alamet O
 idir O
@@ -9536,7 +9536,7 @@ almayu O
 deneyebi O
 ... O
 
-@SryAksu S_PERSON
+@SryAksu S-PERSON
 vay O
 kankim O
 aşık O
@@ -9567,12 +9567,12 @@ mı O
 yeaa O
 :( O
 
-@OzanOzzz S_PERSON
+@OzanOzzz S-PERSON
 görsel O
 kirlilik O
 :) O
 
-survivor S_ORGANIZATION
+survivor S-ORGANIZATION
 ünlüler O
 takımını O
 sevıom O
@@ -9588,19 +9588,19 @@ boyle O
 dusunuyordur O
 :) O
 
-@LiamsToyStory S_PERSON
+@LiamsToyStory S-PERSON
 Saçmalama O
 Sümeyye O
 :D O
 
-kortney B_PERSON
-michele E_PERSON
+kortney B-PERSON
+michele E-PERSON
 think O
 I'm O
 helpless O
 :) O
 
-@MeltemAkcil S_PERSON
+@MeltemAkcil S-PERSON
 Koduman O
 deme O
 bana O
@@ -9613,8 +9613,8 @@ olur O
 bak O
 :D O
 
-@busragvrnn S_PERSON
-@stonembitches S_PERSON
+@busragvrnn S-PERSON
+@stonembitches S-PERSON
 Heeey O
 kızlaaar O
 beniii O
@@ -9622,7 +9622,7 @@ unutmayın O
 lütfeeeen O
 :( O
 
-ejdahar S_PERSON
+ejdahar S-PERSON
 şah O
 damar O
 şarkısını O
@@ -9641,24 +9641,24 @@ veren O
 yanııı O
 :) O
 
-@cankocaturk S_PERSON
-@Akyozge S_PERSON
+@cankocaturk S-PERSON
+@Akyozge S-PERSON
 yeni O
 parçasını O
 dinlednz O
 mi O
 :) O
 
-@DirectionerElif S_PERSON
+@DirectionerElif S-PERSON
 okunuşuu O
 şule O
 salakcığımm O
 :) O
 
-@aslinurkarakas S_PERSON
+@aslinurkarakas S-PERSON
 aynen O
 ya O
-Cansuda S_PERSON
+Cansuda S-PERSON
 gelmedi O
 zaten O
 serviste O
@@ -9667,7 +9667,7 @@ alone O
 takıldım O
 :D O
 
-@Sasiiia S_PERSON
+@Sasiiia S-PERSON
 waaooww O
 nice O
 l O
@@ -9697,16 +9697,16 @@ yanlış O
 cümleler O
 kurmaktan.. O
 
-@Cansu_Nakipoglu S_PERSON
-@_FelipeMelo_ S_PERSON
+@Cansu_Nakipoglu S-PERSON
+@_FelipeMelo_ S-PERSON
 aasasgfasghshg O
 meloo O
 <3 O
 :D O
 
-@BernisOztutan S_PERSON
+@BernisOztutan S-PERSON
 minnosum O
-TYPE="DATE">cumartesi E_None
+TYPE="DATE">cumartesi E-None
 gel O
 diye O
 teklif O
@@ -9729,14 +9729,14 @@ almam O
 lazım O
 :D O
 
-@kbraktas S_PERSON
+@kbraktas S-PERSON
 peki O
 iyi O
 olmana O
 sevindim O
 :) O
 
-@KocaturkMelis S_PERSON
+@KocaturkMelis S-PERSON
 hangi O
 ozelimizi O
 yazdm O
@@ -9746,7 +9746,7 @@ mi O
 sanndnn O
 :D O
 
-@karakocahamit S_PERSON
+@karakocahamit S-PERSON
 Tanımam O
 mı O
 :D O
@@ -9762,35 +9762,35 @@ bile O
 biliyorum O
 :D O
 
-@Muazzez_EDY S_PERSON
-@unalsarrafogluu S_PERSON
-@sarafoglu_emir S_PERSON
+@Muazzez_EDY S-PERSON
+@unalsarrafogluu S-PERSON
+@sarafoglu_emir S-PERSON
 emirde O
 iğrenç O
 espriler O
 yapıyo O
-twitterda S_ORGANIZATION
+twitterda S-ORGANIZATION
 sor O
 kendi O
 bilirr O
 :D O
 
-aksamı E_None
+aksamı E-None
 nikah O
 yapılır O
 bizim O
 damada O
 :D O
 
-@Fnursnmz S_PERSON
+@Fnursnmz S-PERSON
 Impossible O
 is O
 nothing O
 : O
-Adidas S_ORGANIZATION
+Adidas S-ORGANIZATION
 :D O
 
-@SdnTpl S_PERSON
+@SdnTpl S-PERSON
 evet O
 dgru O
 sylysn O
@@ -9815,7 +9815,7 @@ ama O
 adını O
 bilmiyorum O
 
-@ilayda_ayan S_PERSON
+@ilayda_ayan S-PERSON
 Saydım O
 ama O
 120 O
@@ -9824,7 +9824,7 @@ olmustur O
 heralde O
 :D O
 
-@ecmzdmr S_PERSON
+@ecmzdmr S-PERSON
 O O
 zaman O
 halamla O
@@ -9844,7 +9844,7 @@ başlatsınlar O
 hemen O
 :D O
 
-@Sevaalkelleci S_PERSON
+@Sevaalkelleci S-PERSON
 tabikide O
 orda O
 artislik O
@@ -9852,14 +9852,14 @@ yapan O
 benim O
 :D O
 
-@GAZIORHANCETIN_ S_PERSON
+@GAZIORHANCETIN_ S-PERSON
 muhtesem O
 eksik O
 bir O
 ifade O
 :) O
 
-@skruoz S_PERSON
+@skruoz S-PERSON
 olm O
 yakalayamadm O
 seni O
@@ -9885,8 +9885,8 @@ dinlersin O
 acı O
 çekerek.. O
 
-Ajdar S_PERSON
-eurovision S_ORGANIZATION
+Ajdar S-PERSON
+eurovision S-ORGANIZATION
 şarkısını O
 Cikita O
 Muz O
@@ -9917,14 +9917,14 @@ sana O
 varıyor O
 :) O
 
-@officialjaden S_PERSON
+@officialjaden S-PERSON
 Please O
 please O
 please O
 please O
 follow O
 me O
-Jadeen S_PERSON
+Jadeen S-PERSON
 :( O
 7 O
 
@@ -9939,7 +9939,7 @@ güzel O
 olur O
 :) O
 
-@Bagirova_U S_PERSON
+@Bagirova_U S-PERSON
 onda O
 men O
 indiden O
@@ -9974,13 +9974,13 @@ TOPLASAN O
 ETMİYO O
 AMK. O
 
-@Tuba_Ozden S_PERSON
+@Tuba_Ozden S-PERSON
 ;) O
-tubaa B_PERSON
+tubaa B-PERSON
 
 <e_enamex> O
 
-@Gurcaglar S_PERSON
+@Gurcaglar S-PERSON
 tabi O
 canım O
 her O
@@ -9988,7 +9988,7 @@ zaman O
 yani O
 :D O
 
-@GamzzeAckgz S_PERSON
+@GamzzeAckgz S-PERSON
 ananem O
 de O
 sızı O
@@ -10000,8 +10000,8 @@ gotururler O
 dıyo O
 :D O
 
-@essmaylmz S_PERSON
-@ElifGuzelsuu S_PERSON
+@essmaylmz S-PERSON
+@ElifGuzelsuu S-PERSON
 Helal O
 size O
 valla.Bir O
@@ -10014,7 +10014,7 @@ heyecan O
 var. O
 :D O
 
-@safiyeguvendik S_PERSON
+@safiyeguvendik S-PERSON
 harikasın O
 tatlım O
 ya O
@@ -10024,7 +10024,7 @@ bi O
 anlatsam O
 :( O
 
-@mrv_altnhsr S_PERSON
+@mrv_altnhsr S-PERSON
 cehennemde O
 olsan O
 gelrm O
@@ -10041,26 +10041,26 @@ rover O
 alym O
 uzatmayalm:D O
 
-@_eceMen_ S_PERSON
+@_eceMen_ S-PERSON
 bakarıs O
 hazırlamaya O
 çalısırım O
 :D O
 
-@mercoos S_PERSON
+@mercoos S-PERSON
 :) O
 ben O
 henüz O
 denemedim O
 :) O
 
-@umidygonzales S_PERSON
+@umidygonzales S-PERSON
 içinden O
 geçen O
 Cvp O
 ;) O
 
-@ftw1905 S_PERSON
+@ftw1905 S-PERSON
 deplase O
 keyfi O
 yapmamislarmi O
@@ -10069,7 +10069,7 @@ fb O
 macina O
 ? O
 
-@NiallHoran__my S_PERSON
+@NiallHoran__my S-PERSON
 ayyy O
 :D O
 tamam O
@@ -10077,7 +10077,7 @@ akıllıcığımm:D O
 vurma O
 laz:D O
 
-@bunucokdusundum S_PERSON
+@bunucokdusundum S-PERSON
 Bugun O
 yine O
 süper O
@@ -10093,10 +10093,10 @@ getireyim O
 sana O
 :D O
 
-@aybkeaydn S_PERSON
+@aybkeaydn S-PERSON
 ahahahahhahaha O
 abiiiii O
-ajdar S_PERSON
+ajdar S-PERSON
 :D O
 ahahahah O
 :D O
@@ -10116,12 +10116,12 @@ and O
 confusion O
 :) O
 
-@nazarboncugu29 S_PERSON
-@ademkvt S_PERSON
+@nazarboncugu29 S-PERSON
+@ademkvt S-PERSON
 taytis O
 fan O
 uyelerini O
-fb S_ORGANIZATION
+fb S-ORGANIZATION
 macina O
 sonrada O
 kuzey O
@@ -10156,7 +10156,7 @@ calismak O
 istemiyorummm O
 :( O
 
-@Kbr_Smysf S_PERSON
+@Kbr_Smysf S-PERSON
 Demek O
 ki O
 senin O
@@ -10165,35 +10165,35 @@ tezin O
 burda O
 :) O
 
-@GoktugKaraagac S_PERSON
+@GoktugKaraagac S-PERSON
 adamsin O
 :D O
 
-Trabzonspor S_ORGANIZATION
+Trabzonspor S-ORGANIZATION
 veda O
 ediyor O
 kupaya.. O
 Sıra O
-FB S_ORGANIZATION
-Samsunspor S_ORGANIZATION
+FB S-ORGANIZATION
+Samsunspor S-ORGANIZATION
 başarılar.. O
 
-@_nihalll_ S_PERSON
+@_nihalll_ S-PERSON
 evettt O
 :( O
 
-@saharbieber S_PERSON
+@saharbieber S-PERSON
 hi O
 again O
 :) O
 
-@BozzLeyla S_PERSON
+@BozzLeyla S-PERSON
 insanlar O
 ...landılar O
 :D O
 (silahlandilar) O
 
-@xelfefiloglu S_PERSON
+@xelfefiloglu S-PERSON
 kocam O
 zaynın O
 jetini O
@@ -10201,7 +10201,7 @@ yollatıyımm O
 :D O
 :D O
 
-@dilarapolaat S_PERSON
+@dilarapolaat S-PERSON
 küçük O
 orospu O
 kanka O
@@ -10210,7 +10210,7 @@ olabilir O
 haha O
 :D O
 
-@merveeAydn7 S_PERSON
+@merveeAydn7 S-PERSON
 :) O
 
 Lipton O
@@ -10218,7 +10218,7 @@ cay O
 keyfi O
 :) O
 
-@eesinozpek S_PERSON
+@eesinozpek S-PERSON
 Kimya O
 o O
 kadar O
@@ -10235,8 +10235,8 @@ sonra O
 gerekiyor O
 :D O
 
-Yiğit B_PERSON
-Binici E_PERSON
+Yiğit B-PERSON
+Binici E-PERSON
 bizde O
 kalıyor O
 yağmurda O
@@ -10248,11 +10248,11 @@ yemin O
 ediyom O
 :D O
 
-@MerveMervecan S_PERSON
+@MerveMervecan S-PERSON
 Ehehe O
 :) O
 
-@Caglamelepp S_PERSON
+@Caglamelepp S-PERSON
 dualarınızı O
 bekliyorum O
 :) O
@@ -10265,7 +10265,7 @@ kaça O
 gidiyon O
 ?? O
 
-@DirectionerElif S_PERSON
+@DirectionerElif S-PERSON
 Off O
 hiç O
 sorma. O
@@ -10294,7 +10294,7 @@ en O
 sonunda O
 :) O
 
-@HaTtaT34 S_PERSON
+@HaTtaT34 S-PERSON
 la O
 sende O
 bi O
@@ -10312,7 +10312,7 @@ konuştuki O
 sınıfça O
 uyuduk O
 yanımdaki O
-ayşenur S_PERSON
+ayşenur S-PERSON
 da O
 kalk O
 hadi O
