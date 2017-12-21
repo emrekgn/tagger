@@ -13,6 +13,10 @@ optparser.add_option(
     "-m", "--muc", default="",
     help="Location of MUC labelled input file"
 )
+optparser.add_option(
+    "-i", "--ignore_mentions", default="0",
+    type='int', help="Ignore tweet mentions (default 0)"
+)
 opts = optparser.parse_args()[0]
 
 # Check parameters validity
@@ -44,8 +48,10 @@ with open(opts.muc, "r") as muc, open(os.path.join(dataset_conll_path, "input.tx
                         groups = search_result.groups()
                         if groups and len(groups) == 2:
                             label_type = groups[0]
-                            new_token = groups[1]
+                            new_token = str(groups[1]).strip()
                             iobes_tag = "S"
+                            if opts.ignore_mentions == 1 and str.startswith(new_token, '@'):
+                                continue
                             conll.write("{0} {1}-{2}\n".format(new_token, iobes_tag, label_type))
                     # End label
                     else:
