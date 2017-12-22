@@ -14,7 +14,7 @@ optparser.add_option(
     help="Location of MUC labelled input file"
 )
 optparser.add_option(
-    "-i", "--ignore_mentions", default="0",
+    "-i", "--ignore_mentions", default="1",
     type='int', help="Ignore tweet mentions (default 0)"
 )
 opts = optparser.parse_args()[0]
@@ -27,9 +27,15 @@ if not os.path.exists(dataset_conll_path):
     os.makedirs(dataset_conll_path)
 
 with open(opts.muc, "r") as muc, open(os.path.join(dataset_conll_path, "input.txt"), "w+") as conll:
-    numb_label = 0
+    numb_named_entity = 0
+    numb_mention = 0
+    numb_token = 0
+    numb_person_token = 0
+    numb_loc_token = 0
+    numb_org_token = 0
     for c, line in enumerate(muc):
         tokens = line.strip().split()
+        numb_token += len(tokens)
         is_label = False
         iobes_tag = None
         prev_label_type = None
@@ -38,7 +44,7 @@ with open(opts.muc, "r") as muc, open(os.path.join(dataset_conll_path, "input.tx
                 is_label = True
                 iobes_tag = None
                 prev_label_type = None
-                numb_label += 1
+                numb_named_entity += 1
                 continue
             if is_label:
                 if 'e_enamex' in token:
@@ -49,8 +55,15 @@ with open(opts.muc, "r") as muc, open(os.path.join(dataset_conll_path, "input.tx
                         if groups and len(groups) == 2:
                             label_type = groups[0]
                             new_token = str(groups[1]).strip()
+                            if label_type == 'PERSON':
+                                numb_person_token += 1
+                            elif label_type == 'ORGANIZATION':
+                                numb_org_token += 1
+                            elif label_type == 'LOCATION':
+                                numb_loc_token += 1
                             iobes_tag = "S"
                             if opts.ignore_mentions == 1 and str.startswith(new_token, '@'):
+                                numb_mention += 1
                                 conll.write(new_token + " O\n")
                             else:
                                 conll.write("{0} {1}-{2}\n".format(new_token, iobes_tag, label_type))
@@ -71,6 +84,12 @@ with open(opts.muc, "r") as muc, open(os.path.join(dataset_conll_path, "input.tx
                     if search_result:
                         groups = search_result.groups()
                         label_type = groups[0]
+                        if label_type == 'PERSON':
+                            numb_person_token += 1
+                        elif label_type == 'ORGANIZATION':
+                            numb_org_token += 1
+                        elif label_type == 'LOCATION':
+                            numb_loc_token += 1
                         prev_label_type = label_type
                         new_token = groups[1]
                         iobes_tag = "B"
@@ -82,4 +101,4 @@ with open(opts.muc, "r") as muc, open(os.path.join(dataset_conll_path, "input.tx
             else:
                 conll.write(token + " O\n")
         conll.write("\n")
-    print("Number of tweets: {0} Number of named entities: {1}".format(c, numb_label))
+    print("Number of tweets: {0}\nNumber of named entities: {1}\nNumber of mentions: {2}\nNumber of tokens: {3}\nNumber of PERSON tokens: {4}\nNumber of LOC tokens: {5}\nNumber of ORG tokens: {6}".format(c, numb_named_entity, numb_mention, numb_token, numb_person_token, numb_loc_token, numb_org_token))
