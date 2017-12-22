@@ -10,7 +10,7 @@ dataset_conll_path = os.path.join(dataset_path, "conll2003")
 # Read parameters from command line
 optparser = optparse.OptionParser()
 optparser.add_option(
-    "-m", "--muc", default="",
+    "-m", "--muc", default="../dataset/tr.twitter50K.MUClabeled",
     help="Location of MUC labelled input file"
 )
 optparser.add_option(
@@ -51,8 +51,9 @@ with open(opts.muc, "r") as muc, open(os.path.join(dataset_conll_path, "input.tx
                             new_token = str(groups[1]).strip()
                             iobes_tag = "S"
                             if opts.ignore_mentions == 1 and str.startswith(new_token, '@'):
-                                continue
-                            conll.write("{0} {1}-{2}\n".format(new_token, iobes_tag, label_type))
+                                conll.write(new_token + " O\n")
+                            else:
+                                conll.write("{0} {1}-{2}\n".format(new_token, iobes_tag, label_type))
                     # End label
                     else:
                         search_result = re.search(r'(.*)<e_enamex>', token)

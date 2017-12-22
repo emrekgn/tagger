@@ -49,7 +49,7 @@ with open(opts.conll, "r") as conll, open(os.path.join(dataset_conll_path, "trai
     numb_test = int(round(int(opts.examples) * (float(opts.valid) / 100)))
     count_test = 0
 
-    # Group each tweet divied by empty line
+    # Group each tweet divided by empty line
     tweet = []
     for line in conll:
         if line.strip():
@@ -58,10 +58,10 @@ with open(opts.conll, "r") as conll, open(os.path.join(dataset_conll_path, "trai
             if count_train <= numb_train:
                 train_file.write('{0}\n\n'.format('\n'.join(tweet)))
                 count_train += 1
-            elif count_dev <= numb_dev:
-                dev_file.write('{0}\n\n'.format('\n'.join(tweet)))
-                count_dev += 1
             elif count_test <= numb_test:
                 test_file.write('{0}\n\n'.format('\n'.join(tweet)))
                 count_test += 1
+            elif count_dev <= numb_dev:
+                dev_file.write('{0}\n\n'.format('\n'.join(tweet)))
+                count_dev += 1
             tweet = []
